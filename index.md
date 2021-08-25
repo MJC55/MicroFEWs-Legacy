@@ -12,7 +12,7 @@ This website is an active repository of the various components of the University
 
 
 ## Direct Links
-* Dr. Richard Wies [Interview](https://www.youtube.com/watch?v=gEZQeBnrdHY) about MicroFEWS 
+* Dr. Richard Wies [Interview](https://www.youtube.com/watch?v=gEZQeBnrdHY){:target="_blank" rel="noopener"}  about MicroFEWS Hello
 * Infographics created for [solar photovoltaics](Files/solar_infographic.pdf), [hydro-electric](Files/hydro_infographic.pdf), and [wind](Files/windturbines_infographic.pdf) energy
 
 
