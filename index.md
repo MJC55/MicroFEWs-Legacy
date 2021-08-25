@@ -1,6 +1,6 @@
-## Archive: Alaska Affordable Energy Strategy
+## MicroFEWs
 
-This website is an archive of the various components of the Alaska Affordable Energy Strategy (AkAES) reports, model, code, and data. The goal of the archive is to preserve all of these various components in one location for long-term accessability and ensure they remain available for future updates as appropriate. 
+This website is an active repository of the various components of the University of Alaska MicroFEWs team reports, models, codes, and data. The goal of the archive is to preserve all of these various components in one location for long-term accessability and ensure they remain available for future updates as appropriate. 
 
 The official home of the AkAES reports was on the [Alaska Energy Authority Policy Planning website](http://www.akenergyauthority.org/Policy-Planning/AlaskaAffordableEnergyStrategy). As of January 2021 that website and the associated content was not available after an overhaul of the AEA website content management system. The bulk of the overview and context setting content below is directly from the original Alaska Energy Authority Policy Planning AkAES website.
 
