@@ -1,11 +1,13 @@
-# Our Research Questions
+## MicroFEEEWs
+This website is an active repository of the various components of the University of Alaska MicroFEWs team reports, models, codes, and data. The goal of the archive is to preserve all of these various components in one location for long-term accessability and ensure they remain available for future updates as appropriate.
+## Our Research Questions
 1. What are the direct and indirect linkages and feedbacks between renewable energy generation and the local drivers of food, energy, and water (FEW) security in Arctic and Subarctic communities?
 2. To what extent can combinations of renewable energy generation and FEW-related infrastructure energy loads be optimized to enhance FEW security in Arctic and Subarctic communities?
 <br />
 <img src="Images/fewschematic.svg" width=500 align=center>
 <br />
 
-# Direct Links
+## Direct Links
 * Dr. Richard Wies [Interview](https://www.youtube.com/watch?v=gEZQeBnrdHY){:target="_blank" rel="noopener"} about MicroFEWS Hello
 * Infographics created for [solar photovoltaics](Files/solar_infographic.pdf){:target="_blank" rel="noopener"}, [hydro-electric](Files/hydro_infographic.pdf){:target="_blank" rel="noopener"}, and [wind](Files/windturbines_infographic.pdf){:target="_blank" rel="noopener"} energy
 
