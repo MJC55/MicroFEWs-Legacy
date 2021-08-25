@@ -19,7 +19,7 @@ This website is an active repository of the various components of the University
 
 | Title  | Report Author(s)  | Data   |
 | ---           | ---               | ---               |
-| [Energy Distribution Modeling for Assessment and Optimal Distribution of Sustainable Energy for On-Grid Food, Energy, and Water Systems in Remote Microgrids](https://www.mdpi.com/2071-1050/13/17/9511)| [Erin Whitney](https://sciprofiles.com/profile/1462587); [Richard Wies](https://news.uaf.edu/expertsguide/rich-wies/); [Dan Sambor]();[Michele Chamberlin](https://www.linkedin.com/in/michele-chamberlin-19a644146/) |  [Solar Radiation](Data/Cordova.xlsx); [Simulink Model](Data/Cordova.xlsxData/Cordova_Hydro_Diesel_ESS.slx);<a href="Data/Cordova.xlsx" download>Solar Data</a> | 
+| [Energy Distribution Modeling for Assessment and Optimal Distribution of Sustainable Energy for On-Grid Food, Energy, and Water Systems in Remote Microgrids](https://www.mdpi.com/2071-1050/13/17/9511)| [Erin Whitney](https://sciprofiles.com/profile/1462587); [Richard Wies](https://news.uaf.edu/expertsguide/rich-wies/); [Dan Sambor]();[Michele Chamberlin](https://www.linkedin.com/in/michele-chamberlin-19a644146/) |  [Solar Radiation](Data/Cordova.xlsx); [Simulink Model](Data/Cordova_Hydro_Diesel_ESS.slx);<a href="Data/Cordova.xlsx" download>Solar Data</a> | 
 
 ### Alaska Affordable Energy Strategy Overview
 
