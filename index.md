@@ -6,8 +6,9 @@ This website is an active repository of the various components of the University
 1. What are the direct and indirect linkages and feedbacks between renewable energy generation and the local drivers of food, energy, and water (FEW) security in Arctic and Subarctic communities?
 2. To what extent can combinations of renewable energy generation and FEW-related infrastructure energy loads be optimized to enhance FEW security in Arctic and Subarctic communities?
 
-##Direct Links
-[Dr. Richard Wies Interview about MicroFEWS ](https://www.youtube.com/watch?v=gEZQeBnrdHY)
+## Direct Links
+* [Dr. Richard Wies Interview about MicroFEWS ](https://www.youtube.com/watch?v=gEZQeBnrdHY)
+* 
 
 
 ### Alaska Affordable Energy Strategy Overview
