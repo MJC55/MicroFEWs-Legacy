@@ -15,7 +15,11 @@ This website is an active repository of the various components of the University
 * Dr. Richard Wies [Interview](https://www.youtube.com/watch?v=gEZQeBnrdHY) about MicroFEWS Hello
 * Infographics created for [solar photovoltaics](Files/solar_infographic.pdf), [hydro-electric](Files/hydro_infographic.pdf), and [wind](Files/windturbines_infographic.pdf) energy
 
+### Reports and Data Collection
 
+| Title  | Report Author(s)  | Data   |
+| ---           | ---               | ---               |
+| [Energy Distribution Modeling for Assessment and Optimal Distribution of Sustainable Energy for On-Grid Food, Energy, and Water Systems in Remote Microgrids](https://www.mdpi.com/2071-1050/13/17/9511)| [Erin Whitney](https://sciprofiles.com/profile/1462587); [Richard Wies](https://news.uaf.edu/expertsguide/rich-wies/); [Dan Sambor]();[Michele Chamberlin](https://www.linkedin.com/in/michele-chamberlin-19a644146/) |  Solar Radiation | 
 
 ### Alaska Affordable Energy Strategy Overview
 
