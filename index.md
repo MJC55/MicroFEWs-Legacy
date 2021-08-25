@@ -12,39 +12,10 @@ This website is an active repository of the various components of the University
 
 
 ## Direct Links
-* [Dr. Richard Wies Interview about MicroFEWS ](https://www.youtube.com/watch?v=gEZQeBnrdHY)
-* Infographics created for [solar photovoltaics](Files/solar_infographic.pdf)
+* Dr. Richard Wies [Interview](https://www.youtube.com/watch?v=gEZQeBnrdHY) about MicroFEWS 
+* Infographics created for [solar photovoltaics](Files/solar_infographic.pdf), [hydro-electric](Files/hydro_infographic.pdf), and [wind](Files/windturbines_infographic.pdf) energy
 
 
-
-<table>
-<tr>
-<th> Good </th>
-<th> Bad </th>
-</tr>
-<tr>
-<td>
-
-```c++
-int foo() {
-    int result = 4;
-    return result;
-}
-```
-
-</td>
-<td>
-
-```c++
-int foo() { 
-    int x = 4;
-    return x;
-}
-```
-
-</td>
-</tr>
-</table>
 
 ### Alaska Affordable Energy Strategy Overview
 
