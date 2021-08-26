@@ -18,8 +18,10 @@ This website is an active repository of the various components of the University
 * Infographics created for [solar photovoltaics](Files/solar_infographic.pdf){:target="_blank" rel="noopener"}, [hydro-electric](Files/hydro_infographic.pdf){:target="_blank" rel="noopener"}, and [wind](Files/windturbines_infographic.pdf){:target="_blank" rel="noopener"} energy
 
 <br />
-<iframe width="560" height="320" src="https://www.youtube.com/embed/gEZQeBnrdHY" title="YouTube video player" align="center" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<p align="center">
+<iframe width="560" height="320" src="https://www.youtube.com/embed/gEZQeBnrdHY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 Dr. Richard Wies, the Pun-Master, in a interview describing the Food-Energy-Water nexus.
+</p>
 <br />
 
 # Reports and Data Collection
