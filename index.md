@@ -19,7 +19,7 @@ This website is an active repository of the various components of the University
 6. Condut Outreach and Develop Capacity
 
 <br />
-<img src="Images/fewschematic.svg" width=500 align=center>
+<img src="Images/fewschematic.svg" width=500 align="center">
 <br />
 
 
