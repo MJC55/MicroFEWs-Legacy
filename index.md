@@ -21,7 +21,7 @@ This website is an active repository of the various components of the University
 # Food-Energy-Water Dynamics
 
 <p align="center">
-<img src="Images/fewschematic.svg" width=500>
+<img src="Images/fewschematic.svg" width=800>
 </p>
 
 
