@@ -17,7 +17,7 @@ This website is an active repository of the various components of the University
 4. Develop Energy Distribution Models
 5. Synthesize MicroFEWs Model
 6. Condut Outreach and Develop Capacity
-
+# Food-Energy-Water Dynamics
 <p align="center">
 <img src="Images/fewschematic.svg" width=500>
 </p>
@@ -38,7 +38,9 @@ Dr. Richard Wies, the Pun-Master, in a interview describing the Food-Energy-Wate
 
 | Title <img width=100/> | Report Author(s)  <img width=100/> | Data <img width=100/> |
 | ---           | ---               | ---               |
-| <img width=100/> |  <img width=100/> | <img width=100/> |
+| <img width=100/> |  <img width=150/> | <img width=100/> |
 | [Energy Distribution Modeling for Assessment and Optimal Distribution of Sustainable Energy for On-Grid Food, Energy, and Water Systems in Remote Microgrids](https://www.mdpi.com/2071-1050/13/17/9511)| [Erin Whitney](https://sciprofiles.com/profile/1462587){:target="_blank" rel="noopener"} <br /> [Richard Wies](https://news.uaf.edu/expertsguide/rich-wies/){:target="_blank" rel="noopener"} <br /> [Dan Sambor](){:target="_blank" rel="noopener"} <br /> [Michele Chamberlin](https://www.linkedin.com/in/michele-chamberlin-19a644146/){:target="_blank" rel="noopener"} |  [Solar Radiation](Data/Cordova.xlsx) <br /> [Simulink Model](Data/Cordova_Hydro_Diesel_ESS.slx) <br /> <a id="raw-url" href="Data/Cordova.xlsx" download>Solar Data</a> | 
+|More Publications|More Authors|More Data|
+|Even More Publications|More Authors|More Data|
 
 
