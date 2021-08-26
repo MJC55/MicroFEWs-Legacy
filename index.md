@@ -10,7 +10,7 @@ This website is an active repository of the various components of the University
 * <div style="text-align: justify"> To what extent can combinations of renewable energy generation and FEW-related infrastructure energy loads be optimized to enhance FEW security in Arctic and Subarctic communities? </div> 
 
 # Objectives
-<img src="Images/fewschematic.svg" width=500 align=right>
+
 1. Develop FEW Framework
 2. Collect Community Data
 3. Investigate Modular Systems
@@ -18,7 +18,8 @@ This website is an active repository of the various components of the University
 5. Synthesize MicroFEWs Model
 6. Condut Outreach and Develop Capacity
 
-
+<br />
+<img src="Images/fewschematic.svg" width=500 align=center>
 <br />
 
 
