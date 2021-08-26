@@ -16,9 +16,9 @@ This website is an active repository of the various components of the University
 4. Develop Energy Distribution Models
 5. Synthesize MicroFEWs Model
 6. Condut Outreach and Develop Capacity
-<p align="right">
-<img src="Images/fewschematic.svg" width=500 align=center>
-</p>
+
+<img src="Images/fewschematic.svg" width=500 align=right>
+
 
 # Direct Links
 * Dr. Richard Wies [Interview](https://www.youtube.com/watch?v=gEZQeBnrdHY){:target="_blank" rel="noopener"} about MicroFEWS Hello
