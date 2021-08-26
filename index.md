@@ -18,9 +18,9 @@ This website is an active repository of the various components of the University
 5. Synthesize MicroFEWs Model
 6. Condut Outreach and Develop Capacity
 
-<br />
-<img src="Images/fewschematic.svg" width=500 class="center">
-<br />
+<p align="center">
+<img src="Images/fewschematic.svg" width=500>
+</p>
 
 
 # Direct Links
