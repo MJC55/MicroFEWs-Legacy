@@ -18,8 +18,10 @@ This website is an active repository of the various components of the University
 * Dr. Richard Wies [Interview](https://www.youtube.com/watch?v=gEZQeBnrdHY){:target="_blank" rel="noopener"} about MicroFEWS Hello
 * Infographics created for [solar photovoltaics](Files/solar_infographic.pdf){:target="_blank" rel="noopener"}, [hydro-electric](Files/hydro_infographic.pdf){:target="_blank" rel="noopener"}, and [wind](Files/windturbines_infographic.pdf){:target="_blank" rel="noopener"} energy
 
-
-<iframe width="560" height="320" src="https://www.youtube.com/embed/gEZQeBnrdHY" title="YouTube video player" align="right" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<br />
+<iframe width="560" height="320" src="https://www.youtube.com/embed/gEZQeBnrdHY" title="YouTube video player" align="center" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+Dr. Richard Wies, the Pun-Master, in a interview describing the Food-Energy-Water nexus.
+<br />
 
 # Reports and Data Collection
 
