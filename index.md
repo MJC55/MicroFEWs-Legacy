@@ -33,7 +33,7 @@ This website is an active repository of the various components of the University
 <p align="center">
 <iframe width="560" height="320" src="https://www.youtube.com/embed/gEZQeBnrdHY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </p>
-Dr. Richard Wies, the Pun-Master, in a interview describing the Food-Energy-Water nexus.
+Dr. Richard Wies in an interview describing the Food-Energy-Water nexus.
 <br />
 
 # Reports and Data Collection
