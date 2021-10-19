@@ -41,10 +41,14 @@ Dr. Richard Wies in an interview describing the Food-Energy-Water nexus.
 | Title  | Report Author(s) | Data  |
 | ---           | ---               | ---               |
 | <img width=100/> |  <img width=400/> | <img width=300/> |
-| [Energy Distribution Modeling for Assessment and Optimal Distribution of Sustainable Energy for On-Grid Food, Energy, and Water Systems in Remote Microgrids](https://www.mdpi.com/2071-1050/13/17/9511)| [Erin Whitney](https://sciprofiles.com/profile/1462587){:target="_blank" rel="noopener"} <br /> [Richard Wies](https://news.uaf.edu/expertsguide/rich-wies/){:target="_blank" rel="noopener"} <br /> [Dan Sambor](){:target="_blank" rel="noopener"} <br /> [Michele Chamberlin](https://www.linkedin.com/in/michele-chamberlin-19a644146/){:target="_blank" rel="noopener"} |  [Solar Radiation](Data/Cordova.xlsx) <br /> [Simulink Model](Data/Cordova_Hydro_Diesel_ESS.slx) <br /> <a id="raw-url" href="Data/Cordova.xlsx" download>Solar Data</a> | 
+| [Energy Distribution Modeling for Assessment and Optimal Distribution of Sustainable Energy for On-Grid Food, Energy, and Water Systems in Remote Microgrids](https://www.mdpi.com/2071-1050/13/17/9511)| 
+[Erin Whitney](https://sciprofiles.com/profile/1462587){:target="_blank" rel="noopener"} <br /> [Richard Wies](https://news.uaf.edu/expertsguide/rich-wies/){:target="_blank" rel="noopener"} <br /> [Dan Sambor](){:target="_blank" rel="noopener"} <br /> [Michele Chamberlin](https://www.linkedin.com/in/michele-chamberlin-19a644146/){:target="_blank" rel="noopener"} |  
+[Solar Radiation](Data/Cordova.xlsx) <br /> [Simulink Model](Data/Cordova_Hydro_Diesel_ESS.slx) <br /> <a id="raw-url" href="Data/Cordova.xlsx" download>Solar Data</a> | 
+
 |More Publications|More Authors|More Data|
 |Even More Publications....|Even More Authors.....|More Data...|
 
+# Data
 | Title  | Report Author(s) | Data  |
 | ---           | ---               | ---               |
 | <img width=100/> |  <img width=400/> | <img width=300/> |
