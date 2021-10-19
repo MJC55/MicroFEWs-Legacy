@@ -55,6 +55,6 @@ Dr. Richard Wies in an interview describing the Food-Energy-Water nexus.
 | Title  | Information | Data  |
 | ---           | ---               | ---               |
 | <img width=100/> |  <img width=400/> | <img width=300/> |
-| Hello | Hello adsfffffffffffffffffffffffffffffffffffffffffffffffff | Hello Hello Helooadfads adfvasvavagavgasfafdhkjahfdhahvfhakjhfahfdhahfakhfdkhsakjfkkiiiiii |
+| Hello | Hello adsffffffff | Hello Hello Helooadfads adfvasvavagavgasfafdhkjahfdhahvfhakjhfahfdhahfakhfdkhsakjfkkiiiiii |
 
 
