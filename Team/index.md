@@ -25,6 +25,21 @@ rwwiesjr@alaska.edu <br />
 
 
 
+<p style="text-align:right>
+<img src="Srijan.jpg" width=150 align="right" style="padding-right: 20px; padding-bottom: 5px;" />
+    <b>Srijan Aggarwal</b> <br> 
+    University of Alaska Fairbanks, College of Engineering and Mines <br>
+    saggarwal@alaska.edu <br> 
+</p>
+
+<br />
+<div style="text-align: justify"; "text-align-last: right"> 
+"Food, Energy, and Water are inextricably linked and it is about time we look at the system holistically than just trying to tackle the parts. I am excited to explore this uncharted territory with a diverse team of Alaskan community members, researchers, and beyond."
+</div>
+<br />
+
+
+
 
 
 **Srijan Aggarwal** <br />
@@ -43,7 +58,7 @@ saggarwal@alaska.edu <br />
 </p>
 
 <br />
-<div style="text-align: justify"> 
+<div style="text-align: justify">
 "Food, Energy, and Water are inextricably linked and it is about time we look at the system holistically than just trying to tackle the parts. I am excited to explore this uncharted territory with a diverse team of Alaskan community members, researchers, and beyond."
 </div>
 <br />
