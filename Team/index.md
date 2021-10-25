@@ -18,8 +18,8 @@ rwwiesjr@alaska.edu <br />
 </div>
 <br />
 
-<p align="center">
-<img src="Team/jr-18-5920-19.jpg" width=800>
+<p align="left">
+<img src="Team/jr-18-5920-19.jpg" width=100>
 </p>
 
 **Srijan Aggarwal** <br />
