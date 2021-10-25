@@ -25,7 +25,10 @@ rwwiesjr@alaska.edu <br />
 
 <p align="left">
 <img src="Srijan.jpg" width=150>
-</p>
+</p><p>Your text goes here.</p>
+
+
+
 **Srijan Aggarwal** <br />
 University of Alaska Fairbanks, College of Engineering and Mines <br />
 saggarwal@alaska.edu <br />
@@ -34,6 +37,8 @@ saggarwal@alaska.edu <br />
 </div>
 <br />
 
+
+<img src="Srijan.jpg" width=150 align="right" /><p>Your text <br> goes here.</p>
 
 **Daisy Huang** <br />
 Alaska Center for Energy and Power <br />
