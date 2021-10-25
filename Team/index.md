@@ -1,13 +1,8 @@
-[Back to Main Page](https://mjc55.github.io/MicroFEWs_Legacy/)
-
-
 <p align="center"><form action="https://mjc55.github.io/MicroFEWs_Legacy/">
     <input type="submit" value="Back to the Main Page" />
 </form></p>
 
 # MicroFEWs Team
-
-
 
 <p>
 <img src="Erin_Whitney.jpg" width=150 align="left" style="padding-right: 20px; padding-bottom: 5px;" />
@@ -15,19 +10,18 @@
     Alaska Center for Energy and Power  <br>
     erin.whitney@alaska.edu <br> 
 </p>
-
 <br />
 <div style="text-align: justify">
 "The MicroFEWS project is a unique opportunity to quantify the effects of current and future renewable energy generation on measurable food and water outcomes in Alaska communities.  I'm excited to be working with these communities and to hear their input and feedback on these connections."
 </div>
-<br />
+
+
 <p style="text-align:right">
 <img src="Rich_W.jpg" width=150 align="right" style="padding-left: 20px; padding-bottom: 5px;" />
     <b>Richard Wies</b> <br> 
     University of Alaska Fairbanks <br>
     rwwiesjr@alaska.edu <br> 
 </p>
-
 <br />
 <div style="text-align: justify; text-align-last: right"> 
 "Past experiences have shown that proper integration of renewable energy systems in remote Alaska communities is critical for maintaining reliable electricity and heat which translates to reliable food and water systems. Using energy as a lens in this project we hope to better understand and predict how renewable energy would impact food, energy, and water security in these remote communities."
@@ -44,41 +38,55 @@
 <div style="text-align: justify">
 "Food, Energy, and Water are inextricably linked and it is about time we look at the system holistically than just trying to tackle the parts. I am excited to explore this uncharted territory with a diverse team of Alaskan community members, researchers, and beyond."
 </div>
-<br />
 
-**Daisy Huang** <br />
-Alaska Center for Energy and Power <br />
-dhuang@alaska.edu <br />
-<div style="text-align: justify"> 
+
+<p style="text-align:right">
+<img src="Daisy.jpg" width=150 align="right" style="padding-left: 20px; padding-bottom: 5px;" />
+    <b>Daisy Huang</b> <br> 
+    Alaska Center for Energy and Power  <br>
+    dhuang@alaska.edu <br> 
+</p>
+<br />
+<div style="text-align: justify; text-align-last: right"> 
 "This is the first team I've ever worked with that has such a diversity of skills and backgrounds. I'm grateful to play a role in helping communities remain healthy, happy, sustainable, and resilient!"
 </div>
+
+
+<p>
+<img src="Henry.jpg" width=150 align="left" style="padding-right: 20px; padding-bottom: 5px;" />
+    <b>Henry Huntington</b> <br> 
+    Huntington Consulting, Eagle River, Alaska <br>
+    shenryphuntington@gmail.com  <br> 
+</p>
 <br />
-
-
-**Henry Huntington** <br />
-Huntington Consulting, Eagle River, Alaska <br />
-henryphuntington@gmail.com <br />
-<div style="text-align: justify"> 
+<div style="text-align: justify">
 "Rural Alaska residents are adept at innovating. If we can join them in applying those skills to food, energy, and water, then together we can do a lot to improve people's lives around the state and beyond."
 </div>
+
+
+<p style="text-align:right">
+<img src="Henry_Penn.jpg" width=150 align="right" style="padding-left: 20px; padding-bottom: 5px;" />
+    <b>Henry Penn</b> <br> 
+    Arctic Institute of North America, University of Calgary  <br>
+    henry.penn@ucalgary.ca <br> 
+</p>
 <br />
-
-
-**Henry Penn** <br />
-Arctic Institute of North America, University of Calgary <br />
-henry.penn@ucalgary.ca <br />
-<div style="text-align: justify">
+<div style="text-align: justify; text-align-last: right"> 
 "This project is working on diverse challenges with an equally diverse group of researchers, scientists, communities, and community members. It offers a wealth of opportunity to develop some truly innovative and important outcomes. I'm very happy to be able to play a role."
 </div>
+
+
+<p>
+<img src="Barbara_J.jpg" width=150 align="left" style="padding-right: 20px; padding-bottom: 5px;" />
+    <b>Barbara Johnson</b> <br> 
+    Graduate Student, University of Alaska Fairbanks <br>
+</p>
 <br />
-
-
-**Barbara Johnson** <br />
-Graduate Student, University of Alaska Fairbanks <br />
-<div style="text-align: justify"> 
+<div style="text-align: justify">
 "I am excited to be part of the MicroFEWs project, and work with and learn from a team of people with a fantastic range of expertise and experience, such as tribal government members, city councillorsand academics."
 </div>
-<br />
+
+
 
 
 **Christopher Pike** <br />
@@ -113,6 +121,14 @@ Institute of Northern Engineering <br />
 weschnabel@alaska.edu <br />
 <div style="text-align: justify"> 
 "Speaking as somebody who focused on water in school, this idea of looking at food, water, and energy as an integrated system is an exciting concept. I think this approach makes a lot of sense for rural Alaska, and I look forward to hearing what rural Alaska has to say about it."
+</div>
+<br />
+
+
+**Justus Karenzi** <br />
+Graduate Student, University of Alaska Fairbanks <br />
+<div style="text-align: justify"> 
+"Hoping to understand the impacts of renewable energy technologies on the complex interactions within the FEW infrastructure systems in rural Alaska."
 </div>
 <br />
 
