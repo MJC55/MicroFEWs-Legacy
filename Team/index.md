@@ -9,7 +9,7 @@ erin.whitney@alaska.edu <br />
 <div style="text-align: justify"> <! --- aligns the text in blockshrift --->
 The MicroFEWS project is a unique opportunity to quantify the effects of current and future renewable energy generation on measurable food and water outcomes in Alaska communities.  I'm excited to be working with these communities and to hear their input and feedback on these connections.
 </div>
-
+<br />
 
 **Richard Wies**  <br />
 University of Alaska Fairbanks <br />
