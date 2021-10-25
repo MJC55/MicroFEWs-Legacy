@@ -26,7 +26,6 @@ rwwiesjr@alaska.edu <br />
 <p align="left">
 <img src="Srijan.jpg" width=150>
 </p>
-
 **Srijan Aggarwal** <br />
 University of Alaska Fairbanks, College of Engineering and Mines <br />
 saggarwal@alaska.edu <br />
