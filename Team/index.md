@@ -23,9 +23,7 @@ rwwiesjr@alaska.edu <br />
 </div>
 <br />
 
-<p align="left">
-<img src="Srijan.jpg" width=150>
-</p><p>Your text goes here.</p>
+
 
 
 
@@ -38,7 +36,7 @@ saggarwal@alaska.edu <br />
 <br />
 
 
-<img src="Srijan.jpg" width=150 align="right" /><p>Your text <br> goes here.</p>
+<img src="Srijan.jpg" width=150 align="right" /> <p>Your text <br> goes here.</p>
 
 **Daisy Huang** <br />
 Alaska Center for Energy and Power <br />
