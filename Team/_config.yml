@@ -1,1 +1,21 @@
+theme: jekyll-theme-cayman
+future: TRUE
+markdown: kramdown
 
+title: MicroFEW
+description: <img src="Images/microfews_logo.svg" width=100 align=center>  
+github:
+  is_project_page: false
+  
+  
+navbar-links:
+  About Me: "aboutme"
+  Resources:
+    - Beautiful Jekyll: "https://beautifuljekyll.com"
+    - Learn markdown: "https://www.markdowntutorial.com/"
+  Author's home: "https://deanattali.com"
+  
+  
+  
+# Add a search button to the navbar
+post_search: true
