@@ -30,9 +30,9 @@
 
 <br />
 <div style="text-align: justify; text-align-last: right"> 
-"Past experiences have shown that proper integration of renewable energy systems in remote Alaska communities is critical for maintaining reliable electricity and heat which translates to reliable food and water systems. Using energy as a lens in this project we hope to better understand and predict how renewable energy would impact food, energy, and water security in these remote communities."
+"Passssssssst experiences have shown that proper integration of renewable energy systems in remote Alaska communities is critical for maintaining reliable electricity and heat which translates to reliable food and water systems. Using energy as a lens in this project we hope to better understand and predict how renewable energy would impact food, energy, and water security in these remote communities."
 </div>
-<br />
+
 
 <p>
 <img src="Srijan.jpg" width=150 align="left" style="padding-right: 20px; padding-bottom: 5px;" />
