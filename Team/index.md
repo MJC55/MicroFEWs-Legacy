@@ -1,4 +1,4 @@
-<form action="https://mjc55.github.io/MicroFEWs_Legacy/" align="center>
+<form action="https://mjc55.github.io/MicroFEWs_Legacy/" align="center">
 <input type="submit" value="Back to the Main Page" />
 </form>
 
