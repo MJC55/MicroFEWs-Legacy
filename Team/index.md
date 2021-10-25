@@ -87,66 +87,97 @@
 </div>
 
 
-
-
-**Christopher Pike** <br />
-Alaska Center for Energy and Power <br />
-cpike6@alaska.edu <br />
-<div style="text-align: justify"> 
+<p style="text-align:right">
+<img src="Chris_P.jpg" width=150 align="right" style="padding-left: 20px; padding-bottom: 5px;" />
+    <b>Christopher Pike</b> <br> 
+    Alaska Center for Energy and Power <br>
+    cpike6@alaska.edu <br> 
+</p>
+<br />
+<div style="text-align: justify; text-align-last: right"> 
 "Developing a better understanding of the relationship between food, water, and energy consumption is important to develop a more holistic understanding of Alaska's islanded communities."
 </div>
+
+
+<p>
+<img src="Dan_Sambor.jpg" width=150 align="left" style="padding-right: 20px; padding-bottom: 5px;" />
+    <b>Daniel Sambor</b> <br> 
+    Stanford University <br>
+    dsambor@stanford.edu <br>
+</p>
 <br />
-
-
-**Daniel Sambor** <br />
-Stanford University <br />
-dsambor@stanford.edu <br />
-<div style="text-align: justify"> 
+<div style="text-align: justify">
 "Since growing up on a small Midwestern farm, I have been keenly aware of relationships between food, energy, and water systems. The ability to formally study this nexus with an expert team in innovative Alaskan communities is a rewarding experience I am excited to be a part of."
 </div>
+
+
+<p style="text-align:right">
+<img src="Jenn_S.jpg" width=150 align="right" style="padding-left: 20px; padding-bottom: 5px;" />
+    <b>Jennifer Schmidt</b> <br> 
+    University of Alaska Anchorage <br>
+    jischmidt0@gmail.com <br> 
+</p>
 <br />
-
-
-**Jennifer Schmidt** <br />
-University of Alaska Anchorage <br />
-jischmidt0@gmail.com <br />
-<div style="text-align: justify"> 
+<div style="text-align: justify; text-align-last: right"> 
 "Food, water, and energy are issues that people can relate to and are important. By looking at all three we have the opportunity to study a real life and relatable situation."
 </div>
+
+
+<p>
+<img src="Bill_S.jpg" width=150 align="left" style="padding-right: 20px; padding-bottom: 5px;" />
+    <b>Bill Schnabel</b> <br> 
+    Institute of Northern Engineering  <br>
+    weschnabel@alaska.edu <br>
+</p>
 <br />
-
-
-**Bill Schnabel** <br />
-Institute of Northern Engineering <br />
-weschnabel@alaska.edu <br />
-<div style="text-align: justify"> 
+<div style="text-align: justify">
 "Speaking as somebody who focused on water in school, this idea of looking at food, water, and energy as an integrated system is an exciting concept. I think this approach makes a lot of sense for rural Alaska, and I look forward to hearing what rural Alaska has to say about it."
 </div>
+
+
+<p style="text-align:right">
+<img src="Justus.jpg" width=150 align="right" style="padding-left: 20px; padding-bottom: 5px;" />
+    <b>Justus Karenzi</b> <br> 
+    Graduate Student, University of Alaska Fairbanks <br>
+</p>
 <br />
-
-
-**Justus Karenzi** <br />
-Graduate Student, University of Alaska Fairbanks <br />
-<div style="text-align: justify"> 
+<div style="text-align: justify; text-align-last: right"> 
 "Hoping to understand the impacts of renewable energy technologies on the complex interactions within the FEW infrastructure systems in rural Alaska."
 </div>
+
+
+
+<p>
+<img src="Michelle_Wilber.jpg" width=150 align="left" style="padding-right: 20px; padding-bottom: 5px;" />
+    <b>Michelle Wilber</b> <br> 
+    Research Engineer, Alaska Center for Energy & Power  <br>
+</p>
 <br />
 
 
-**Michelle Wilber** <br />
-Research Engineer, Alaska Center for Energy & Power <br />
 
 
 
-**Aaron Dotson** <br />
-University of Alaska Anchorage, Interim Vice Provost for Research & Director, Applied Environmental Research Center<br />
-addotson@alaska.edu <br />
+<p style="text-align:right">
+<img src="Aaron_Dotson.jpg" width=150 align="right" style="padding-left: 20px; padding-bottom: 5px;" />
+    <b>Aaron Dotson</b> <br> 
+    University of Alaska Anchorage, Interim Vice Provost for Research & Director, Applied Environmental Research Center <br>
+    addotson@alaska.edu <br>
+</p>
+<br />
+<div style="text-align: justify; text-align-last: right"> 
+"Hoping to understand the impacts of renewable energy technologies on the complex interactions within the FEW infrastructure systems in rural Alaska."
+</div>
 
 
+<p>
+<img src="Dan_Sambor.jpg" width=150 align="left" style="padding-right: 20px; padding-bottom: 5px;" />
+    <b>Craig Gerlach</b> <br> 
+    University of Calgary  <br>
+    scgerlac@ucalgary.ca <br>
+</p>
+<br />
 
-**Craig Gerlach**  <br />
-University of Calgary <br />
-scgerlac@ucalgary.ca <br />
 
 [Back to Main Page](https://mjc55.github.io/MicroFEWs_Legacy/)
 
