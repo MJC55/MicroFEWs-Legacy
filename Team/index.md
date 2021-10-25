@@ -3,7 +3,7 @@ Hello File
 
 # MicroFEWs Team
 <div style="text-align: justify"> <! --- aligns the text in blockshrift --->
-## Erin Whitney <br />
+**Erin Whitney ** <br />
 Alaska Center for Energy and Power <br />
 erin.whitney@alaska.edu <br />
   
@@ -11,7 +11,7 @@ The MicroFEWS project is a unique opportunity to quantify the effects of current
 </div>
 
 <div style="text-align: justify"> <! --- aligns the text in blockshrift --->
-## Richard Wies <br />
+**Richard Wies**  <br />
 University of Alaska Fairbanks <br />
 rwwiesjr@alaska.edu <br />
   
@@ -19,7 +19,7 @@ Past experiences have shown that proper integration of renewable energy systems 
 </div>
 
 <div style="text-align: justify"> <! --- aligns the text in blockshrift --->
-## Srijan Aggarwal <br />
+**Srijan Aggarwal** <br />
 University of Alaska Fairbanks, College of Engineering and Mines <br />
 saggarwal@alaska.edu <br />
   
@@ -28,7 +28,7 @@ Food, Energy, and Water are inextricably linked and it is about time we look at 
 
 
 <div style="text-align: justify"> <! --- aligns the text in blockshrift --->
-## Daisy Huang <br />
+**Daisy Huang** <br />
 Alaska Center for Energy and Power <br />
 dhuang@alaska.edu <br />
   
@@ -37,7 +37,7 @@ This is the first team I've ever worked with that has such a diversity of skills
 
 
 <div style="text-align: justify"> <! --- aligns the text in blockshrift --->
-## Henry Huntington <br />
+**Henry Huntington** <br />
 Huntington Consulting, Eagle River, Alaska <br />
 henryphuntington@gmail.com <br />
   
@@ -46,7 +46,7 @@ Rural Alaska residents are adept at innovating. If we can join them in applying 
 
 
 <div style="text-align: justify"> <! --- aligns the text in blockshrift --->
-## Henry Penn <br />
+**Henry Penn** <br />
 Arctic Institute of North America, University of Calgary <br />
 henry.penn@ucalgary.ca <br />
   
@@ -55,7 +55,7 @@ This project is working on diverse challenges with an equally diverse group of r
 
 
 <div style="text-align: justify"> <! --- aligns the text in blockshrift --->
-## Barbara Johnson <br />
+**Barbara Johnson** <br />
 Graduate Student, University of Alaska Fairbanks <br />
   
 I am excited to be part of the MicroFEWs project, and work with and learn from a team of people with a fantastic range of expertise and experience, such as tribal government members, city councillorsand academics.
@@ -63,7 +63,7 @@ I am excited to be part of the MicroFEWs project, and work with and learn from a
 
 
 <div style="text-align: justify"> <! --- aligns the text in blockshrift --->
-## Christopher Pike <br />
+**Christopher Pike** <br />
 Alaska Center for Energy and Power <br />
 cpike6@alaska.edu <br />
   
@@ -72,7 +72,7 @@ Developing a better understanding of the relationship between food, water, and e
 
 
 <div style="text-align: justify"> <! --- aligns the text in blockshrift --->
-## Daniel Sambor <br />
+**Daniel Sambor** <br />
 Stanford University <br />
 dsambor@stanford.edu <br />
   
@@ -81,7 +81,7 @@ Since growing up on a small Midwestern farm, I have been keenly aware of relatio
 
 
 <div style="text-align: justify"> <! --- aligns the text in blockshrift --->
-## Jennifer Schmidt <br />
+**Jennifer Schmidt** <br />
 University of Alaska Anchorage <br />
 jischmidt0@gmail.com <br />
   
@@ -90,7 +90,7 @@ Food, water, and energy are issues that people can relate to and are important. 
 
 
 <div style="text-align: justify"> <! --- aligns the text in blockshrift --->
-## Bill Schnabel <br />
+**Bill Schnabel** <br />
 Institute of Northern Engineering <br />
 weschnabel@alaska.edu <br />
   
@@ -99,18 +99,18 @@ Speaking as somebody who focused on water in school, this idea of looking at foo
 
 
 <div style="text-align: justify"> <! --- aligns the text in blockshrift --->
-## Michelle Wilber <br />
+**Michelle Wilber** <br />
 Research Engineer, Alaska Center for Energy & Power <br />
 </div>
 
 <div style="text-align: justify"> <! --- aligns the text in blockshrift --->
-## Aaron Dotson <br />
+**Aaron Dotson** <br />
 University of Alaska Anchorage, Interim Vice Provost for Research & Director, Applied Environmental Research Center<br />
 addotson@alaska.edu <br />
 </div>
 
 <div style="text-align: justify"> <! --- aligns the text in blockshrift --->
-## Craig Gerlach  <br />
+**Craig Gerlach**  <br />
 University of Calgary <br />
 scgerlac@ucalgary.ca <br />
 </div>
