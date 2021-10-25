@@ -167,8 +167,7 @@
     Research Engineer, Alaska Center for Energy & Power  <br>
 </p>
 <br />
-
-
+<br />
 
 
 
@@ -179,7 +178,7 @@
     addotson@alaska.edu <br>
 </p>
 <br />
-
+<br />
 
 
 <p>
