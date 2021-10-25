@@ -3,7 +3,7 @@
 Test-Repo to showcast GitHub potential for MicroFEWs data archiving, with public portal/interface to make research accessible
 <br />
 <br />
-[GitHub Page](https://mjc55.github.io/MicroFEWs-Legacy/)
+[GitHub Page](https://mjc55.github.io/MicroFEWs_Legacy/)
 
 Potential Theme Addition: <br />
 https://jekyllthemes.io/theme/bulma <br />
