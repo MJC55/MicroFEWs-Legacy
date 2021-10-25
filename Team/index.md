@@ -7,48 +7,37 @@
 
 # MicroFEWs Team
 
-**Erin Whitney** <br />
-Alaska Center for Energy and Power <br />
-erin.whitney@alaska.edu <br />
-<div style="text-align: justify"> 
+
+
+<p>
+<img src="Erin_Whitney.jpg" width=150 align="left" style="padding-right: 20px; padding-bottom: 5px;" />
+    <b>Erin Whitney</b> <br> 
+    Alaska Center for Energy and Power  <br>
+    erin.whitney@alaska.edu <br> 
+</p>
+
+<br />
+<div style="text-align: justify">
 "The MicroFEWS project is a unique opportunity to quantify the effects of current and future renewable energy generation on measurable food and water outcomes in Alaska communities.  I'm excited to be working with these communities and to hear their input and feedback on these connections."
 </div>
 <br />
 
-**Richard Wies**  <br />
-University of Alaska Fairbanks <br />
-rwwiesjr@alaska.edu <br />
-<div style="text-align: justify"> 
-"Past experiences have shown that proper integration of renewable energy systems in remote Alaska communities is critical for maintaining reliable electricity and heat which translates to reliable food and water systems. Using energy as a lens in this project we hope to better understand and predict how renewable energy would impact food, energy, and water security in these remote communities."
-</div>
-<br />
 
 
 
 <p style="text-align:right">
-<img src="Srijan.jpg" width=150 align="right" style="padding-right: 20px; padding-bottom: 5px;" />
-    <b>Srijan Aggarwal</b> <br> 
-    University of Alaska Fairbanks, College of Engineering and Mines <br>
-    saggarwal@alaska.edu <br> 
+<img src="Rich_W.jpg" width=150 align="right" style="padding-left: 20px; padding-bottom: 5px;" />
+    <b>Richard Wies</b> <br> 
+    University of Alaska Fairbanks <br>
+    rwwiesjr@alaska.edu <br> 
 </p>
 
 <br />
 <div style="text-align: justify; text-align-last: right"> 
-"Food, Energy, and Water are inextricably linked and it is about time we look at the system holistically than just trying to tackle the parts. I am excited to explore this uncharted territory with a diverse team of Alaskan community members, researchers, and beyond."
+"Past experiences have shown that proper integration of renewable energy systems in remote Alaska communities is critical for maintaining reliable electricity and heat which translates to reliable food and water systems. Using energy as a lens in this project we hope to better understand and predict how renewable energy would impact food, energy, and water security in these remote communities."
 </div>
 <br />
 
-
-
-
-
-**Srijan Aggarwal** <br />
-University of Alaska Fairbanks, College of Engineering and Mines <br />
-saggarwal@alaska.edu <br />
-<div style="text-align: justify"> 
-"Food, Energy, and Water are inextricably linked and it is about time we look at the system holistically than just trying to tackle the parts. I am excited to explore this uncharted territory with a diverse team of Alaskan community members, researchers, and beyond."
-</div>
-<br />
 
 <p>
 <img src="Srijan.jpg" width=150 align="left" style="padding-right: 20px; padding-bottom: 5px;" />
