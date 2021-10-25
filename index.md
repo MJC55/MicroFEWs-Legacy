@@ -2,7 +2,7 @@
 <div style="text-align: justify"> 
 This website is an active repository of the various components of the University of Alaska MicroFEWs team reports, models, codes, and data. The goal of the archive is to preserve all of these various components in one location for long-term accessibility and ensure they remain available for future updates as appropriate.</br>
 
-[Meet the Team](https://mjc55.github.io/MicroFEWs_Legacy/Team/)
+[Meet the Team](https://mjc55.github.io/MicroFEWs_Legacy/Team/){:target="_blank" rel="noopener"}
 </div>
 
 
