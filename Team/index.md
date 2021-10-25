@@ -2,13 +2,13 @@ Hello File
 
 
 # MicroFEWs Team
-<div style="text-align: justify"> <! --- aligns the text in blockshrift --->
-**Erin Whitney ** <br />
+
+**Erin Whitney** <br />
 Alaska Center for Energy and Power <br />
 erin.whitney@alaska.edu <br />
   
 The MicroFEWS project is a unique opportunity to quantify the effects of current and future renewable energy generation on measurable food and water outcomes in Alaska communities.  I'm excited to be working with these communities and to hear their input and feedback on these connections.
-</div>
+
 
 <div style="text-align: justify"> <! --- aligns the text in blockshrift --->
 **Richard Wies**  <br />
@@ -18,7 +18,7 @@ rwwiesjr@alaska.edu <br />
 Past experiences have shown that proper integration of renewable energy systems in remote Alaska communities is critical for maintaining reliable electricity and heat which translates to reliable food and water systems. Using energy as a lens in this project we hope to better understand and predict how renewable energy would impact food, energy, and water security in these remote communities.
 </div>
 
-<div style="text-align: justify"> <! --- aligns the text in blockshrift --->
+<div style="text-align: justify"> <! --- aligns the text in blockshrift -->
 **Srijan Aggarwal** <br />
 University of Alaska Fairbanks, College of Engineering and Mines <br />
 saggarwal@alaska.edu <br />
@@ -27,7 +27,7 @@ Food, Energy, and Water are inextricably linked and it is about time we look at 
 </div>
 
 
-<div style="text-align: justify"> <! --- aligns the text in blockshrift --->
+<div style="text-align: justify"> <! --- aligns the text in blockshrift ->
 **Daisy Huang** <br />
 Alaska Center for Energy and Power <br />
 dhuang@alaska.edu <br />
@@ -36,7 +36,7 @@ This is the first team I've ever worked with that has such a diversity of skills
 </div>
 
 
-<div style="text-align: justify"> <! --- aligns the text in blockshrift --->
+<div style="text-align: justify"> <! --- aligns the text in blockshrift >
 **Henry Huntington** <br />
 Huntington Consulting, Eagle River, Alaska <br />
 henryphuntington@gmail.com <br />
