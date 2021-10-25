@@ -1,8 +1,7 @@
-<p align="center">
-    <form action="https://mjc55.github.io/MicroFEWs_Legacy/">
-    <input type="submit" value="Back to the Main Page" />
-    </form>
-</p>
+<form action="https://mjc55.github.io/MicroFEWs_Legacy/" align="center>
+<input type="submit" value="Back to the Main Page" />
+</form>
+
 
 # MicroFEWs Team
 
@@ -90,6 +89,7 @@
     Graduate Student, University of Alaska Fairbanks <br>
 </p>
 <br />
+<br />
 <div style="text-align: justify">
 "I am excited to be part of the MicroFEWs project, and work with and learn from a team of people with a fantastic range of expertise and experience, such as tribal government members, city councillorsand academics."
 </div>
@@ -153,6 +153,7 @@
     <b>Justus Karenzi</b> <br> 
     Graduate Student, University of Alaska Fairbanks <br>
 </p>
+<br />
 <br />
 <div style="text-align: justify; text-align-last: right"> 
 "Hoping to understand the impacts of renewable energy technologies on the complex interactions within the FEW infrastructure systems in rural Alaska."
