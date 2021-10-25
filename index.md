@@ -4,7 +4,7 @@ This website is an active repository of the various components of the University
 </div>
 
 <p style="text-align: center;">  
-[Meet the Team](https://mjc55.github.io/MicroFEWs_Legacy/Team/)
+  <a href="https://mjc55.github.io/MicroFEWs_Legacy/Team/">Meet the Team</a>
 </p> 
 
 
