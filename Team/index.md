@@ -36,7 +36,7 @@ saggarwal@alaska.edu <br />
 <br />
 
 
-<img src="Srijan.jpg" width=150 align="right" /> <p>Your text <br> goes here.</p> 
+<img src="Srijan.jpg" width=150 align="left" /> <p><b>Srijan Aggarwal</b> <br> University of Alaska Fairbanks, College of Engineering and Mines <br>saggarwal@alaska.edu <br> </p> 
 <br />
 
 **Daisy Huang** <br />
