@@ -36,7 +36,8 @@ saggarwal@alaska.edu <br />
 <br />
 
 
-<img src="Srijan.jpg" width=150 align="right" /> <p>Your text <br> goes here.</p>
+<img src="Srijan.jpg" width=150 align="right" /> <p>Your text <br> goes here.</p> 
+<br />
 
 **Daisy Huang** <br />
 Alaska Center for Energy and Power <br />
