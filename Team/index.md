@@ -1,11 +1,9 @@
 [Back to Main Page](https://mjc55.github.io/MicroFEWs_Legacy/)
 
 
-<p align="center">
-<form action="https://mjc55.github.io/MicroFEWs_Legacy/">
-    <input type="submit" value="Back to Main Page" />
-</form>
-</p>
+<p align="center"><form action="https://mjc55.github.io/MicroFEWs_Legacy/">
+    <input type="submit" value="Back to the Main Page" />
+</form></p>
 
 # MicroFEWs Team
 
