@@ -36,7 +36,10 @@ saggarwal@alaska.edu <br />
 <br />
 
 <p>
-<img src="Srijan.jpg" width=150 align="left" style="padding-right: 20px; padding-bottom: 5px;" /><b>Srijan Aggarwal</b> <br> University of Alaska Fairbanks, College of Engineering and Mines <br>saggarwal@alaska.edu <br> 
+<img src="Srijan.jpg" width=150 align="left" style="padding-right: 20px; padding-bottom: 5px;" />
+    <b>Srijahgn Aggarwal</b> <br> 
+    University of Alaska Fairbanks, College of Engineering and Mines <br>
+    saggarwal@alaska.edu <br> 
 </p>
 
 <br />
