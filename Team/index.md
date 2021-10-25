@@ -190,7 +190,9 @@
 <br />
 
 
-[Back to Main Page](https://mjc55.github.io/MicroFEWs_Legacy/)
+<form action="https://mjc55.github.io/MicroFEWs_Legacy/" align="center">
+<input type="submit" value="Back to the Main Page" />
+</form>
 
 
 
