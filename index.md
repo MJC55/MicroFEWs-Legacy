@@ -9,8 +9,8 @@ This website is an active repository of the various components of the University
 </form>
 
 
-<input type="button" style="background-color:black;color:white;width:150px;
-height:40px;" value="Click Me!!">
+<input type="button" style="background-color:green;color:black;width:150px;
+height:40px;" value="Click Me!!";align="center">
 
 
 # Our Research Questions
@@ -20,12 +20,18 @@ height:40px;" value="Click Me!!">
 
 # Objectives
 
-1. Develop FEW Framework <br/>
+1. Develop FEW Framework 
+<p>&nbsp;</p>
 2. Collect Community Data
+<p>&nbsp;</p>
 3. Investigate Modular Systems
+<p>&nbsp;</p>
 4. Develop Energy Distribution Models
+<p>&nbsp;</p>
 5. Synthesize MicroFEWs Model
+<p>&nbsp;</p>
 6. Condut Outreach and Develop Capacity
+<p>&nbsp;</p>
 
 # Food-Energy-Water Dynamics
 
