@@ -1,4 +1,4 @@
-# MicroFEWWes
+# MicroFEW
 <div style="text-align: justify"> 
 This website is an active repository of the various components of the University of Alaska MicroFEWs team reports, models, codes, and data. The goal of the archive is to preserve all of these various components in one location for long-term accessibility and ensure they remain available for future updates as appropriate.
 </div>
