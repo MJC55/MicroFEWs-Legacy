@@ -3,7 +3,7 @@ future: TRUE
 markdown: kramdown
 
 title: MicroFEWs
-description: Exploring the Nexus between Food, Energy, and Water <br/> <img src="Images/microfews_logo.svg" width=100 align=center>  
+description: Exploring the Nexus between Food, Energy, and Water <br/> <img src="microfews_logo.svg" width=100 align=center>  
 github:
   is_project_page: false
   
