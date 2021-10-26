@@ -9,10 +9,6 @@ This website is an active repository of the various components of the University
 </form>
 
 
-<input type="button" style="background-color:green;color:black;width:150px;
-height:40px;" value="Meet the Team!"; align="center">
-
-
 # Our Research Questions
 
 * <div style="text-align: justify"> What are the direct and indirect linkages and feedbacks between renewable energy generation and the local drivers of food, energy, and water (FEW) security in Arctic and Subarctic communities? </div> 
