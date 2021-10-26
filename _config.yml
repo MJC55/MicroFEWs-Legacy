@@ -2,8 +2,8 @@ theme: jekyll-theme-cayman
 future: TRUE
 markdown: kramdown
 
-title: MicroFEEEEWss
-description: <img src="Images/microfews_logo.svg" width=100 align=center>  
+title: MicroFEWs
+description: <img src="microfews_logo.svg" width=100 align=center>  
 github:
   is_project_page: false
   
