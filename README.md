@@ -1,6 +1,6 @@
 # MicroFEWs-Legacy
 
-Test-Repo to showcast GitHub potential for MicroFEWs data archiving, with public portal/interface to make research accessible
+Test-Repo to showcast GitHub potential for MicroFEWs data archiving, with public portal/interface to make research accessible. Initially based off Dayne's [AkAES GitHub Page](https://acep-uaf.github.io/AkAES/)
 <br />
 <br />
 [GitHub Page](https://mjc55.github.io/MicroFEWs_Legacy/)
