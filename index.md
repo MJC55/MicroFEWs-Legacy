@@ -10,7 +10,7 @@ This website is an active repository of the various components of the University
 
 
 <input type="button" style="background-color:green;color:black;width:150px;
-height:40px;" value="Click Me!!";align="center">
+height:40px;" value="Meet the Team!"; align="center">
 
 
 # Our Research Questions
