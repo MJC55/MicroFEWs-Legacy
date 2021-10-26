@@ -45,7 +45,7 @@ Dr. Richard Wies in an interview describing the Food-Energy-Water nexus.
 # Reports and Publications
 
 | Title  | Report Author(s) | Date  |
-|   |   |   |
+| ---  | ---  | ---  |
 |   |   |   |
 | [Energy Distribution Modeling for Assessment and Optimal Distribution of Sustainable Energy for On-Grid Food, Energy, and Water Systems in Remote Microgrids](https://www.mdpi.com/2071-1050/13/17/9511){:target="_blank" rel="noopener"} |    [Erin Whitney](https://sciprofiles.com/profile/1462587){:target="_blank" rel="noopener"} <br /> [Richard Wies](https://news.uaf.edu/expertsguide/rich-wies/){:target="_blank" rel="noopener"} <br /> [Dan Sambor](){:target="_blank" rel="noopener"} <br /> [Michele Chamberlin](https://www.linkedin.com/in/michele-chamberlin-19a644146/){:target="_blank" rel="noopener"} |       | 
 |[Novel wind resource assessment and demand flexibility analysis for community resilience: A remote microgrid case study](Publications/Chong Her Final Published.pdf){:target="_blank" rel="noopener"} |      Chong Her <br /> [Dan Sambor](){:target="_blank" rel="noopener"} <br /> [Erin Whitney](https://sciprofiles.com/profile/1462587){:target="_blank" rel="noopener"} <br /> [Richard Wies](https://news.uaf.edu/expertsguide/rich-wies/){:target="_blank" rel="noopener"} |      Authors with no ORCID link lead back to this site, add Linkedin or smth?|
