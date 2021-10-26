@@ -4,7 +4,7 @@ This website is an active repository of the various components of the University
 </div>
 
 
-<form action="https://mjc55.github.io/MicroFEWs_Legacy/Team/" align="center" background-color=#4CAF50 color=#4CAF50>
+<form action="https://mjc55.github.io/MicroFEWs_Legacy/Team/" align="center" background-color="red" color="red">
 <input type="submit" value="Meet the Team" />
 </form>
 
