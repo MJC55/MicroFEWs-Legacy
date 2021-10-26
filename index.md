@@ -27,11 +27,11 @@ height:40px;" value="Meet the Team!"; align="center">
 3. Investigate Modular Systems
 <p>&nbsp;</p>
 4. Develop Energy Distribution Models
-<p>&nbsp;</p>
+<br />
 5. Synthesize MicroFEWs Model
-<p>&nbsp;</p>
+<br />
 6. Condut Outreach and Develop Capacity
-<p>&nbsp;</p>
+<br />
 
 # Food-Energy-Water Dynamics
 
