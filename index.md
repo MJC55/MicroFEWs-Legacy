@@ -9,31 +9,8 @@ This website is an active repository of the various components of the University
 </form>
 
 
-
-<section class="dl-blurbs">
-<dl>
-	<dt>Design</dt>
-	<dd>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer nec odio. Praesent libero. Sed cursus ante dapibus diam. Sed nisi. Nulla quis sem at nibh elementum imperdiet.</dd>
-	<dt>Develop</dt>
-	<dd>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer nec odio. Praesent libero. Sed cursus ante dapibus diam. Sed nisi. Nulla quis sem at nibh elementum imperdiet.</dd>
-	<dt>Test</dt>
-	<dd>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer nec odio. Praesent libero. Sed cursus ante dapibus diam. Sed nisi. Nulla quis sem at nibh elementum imperdiet.</dd>
-</dl>
-<dl>
-	<dt>Deliver</dt>
-	<dd>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer nec odio. Praesent libero. Sed cursus ante dapibus diam. Sed nisi. Nulla quis sem at nibh elementum imperdiet.</dd>
-	<dt>Rinse</dt>
-	<dd>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer nec odio. Praesent libero. Sed cursus ante dapibus diam. Sed nisi. Nulla quis sem at nibh elementum imperdiet.</dd>
-
-	<dt>Repeat</dt>
-	<dd>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer nec odio. Praesent libero. Sed cursus ante dapibus diam. Sed nisi. Nulla quis sem at nibh elementum imperdiet.</dd>
-</dl>
-</section>
-
-
-
-
-
+<input type="button" style="background-color:black;color:white;width:150px;
+height:40px;" value="Click Me!!">
 
 
 # Our Research Questions
@@ -43,7 +20,7 @@ This website is an active repository of the various components of the University
 
 # Objectives
 
-1. Develop FEW Framework
+1. Develop FEW Framework <br/>
 2. Collect Community Data
 3. Investigate Modular Systems
 4. Develop Energy Distribution Models
