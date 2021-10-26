@@ -17,17 +17,11 @@ This website is an active repository of the various components of the University
 # Objectives
 
 1. Develop FEW Framework 
-<p>&nbsp;</p>
 2. Collect Community Data
-<p>&nbsp;</p>
 3. Investigate Modular Systems
-<p>&nbsp;</p>
 4. Develop Energy Distribution Models
-<br />
 5. Synthesize MicroFEWs Model
-<br />
 6. Condut Outreach and Develop Capacity
-<br />
 
 # Food-Energy-Water Dynamics
 
