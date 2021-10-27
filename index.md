@@ -23,6 +23,13 @@ This website is an active repository of the various components of the University
 5. Synthesize MicroFEWs Model
 6. Condut Outreach and Develop Capacity
 
+
+<details>
+<summary>How do I dropdown?</summary>
+<br>
+This is how you dropdown.
+</details>
+
 # Food-Energy-Water Dynamics
 
 <p align="center">
