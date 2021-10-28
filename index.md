@@ -18,7 +18,7 @@ This website is an active repository of the various components of the University
 
 
 
-# Our Research Questions
+# Our Research Questionsss
 
 * <div style="text-align: justify"> What are the direct and indirect linkages and feedbacks between renewable energy generation and the local drivers of food, energy, and water (FEW) security in Arctic and Subarctic communities? </div> 
 * <div style="text-align: justify"> To what extent can combinations of renewable energy generation and FEW-related infrastructure energy loads be optimized to enhance FEW security in Arctic and Subarctic communities? </div> 
@@ -37,12 +37,12 @@ Buttons in Progress
 <p align="center" text-align="center">
 <table style="border-collapse: collapse; border: none;">
   <tr style="border: none;">
-    <th width="100" style="border: none;"> <form action="https://mjc55.github.io/MicroFEWs_Legacy/Objectives/Objective_1/" align="left"><input type="submit" value="Objective 1" /></form> </th>
-    <th width="200" style="border: none;"> <form action="https://mjc55.github.io/MicroFEWs_Legacy/Team/" align="left"><input type="submit" value="Objective 2" /></form> </th>
-    <th width="100" style="border: none;"> <form action="https://mjc55.github.io/MicroFEWs_Legacy/Communities/?" align="center"><input type="submit" value="Objective 3" /></form>  </th>
-    <th width="300" style="border: none;"> <form action="https://mjc55.github.io/MicroFEWs_Legacy/Team/" align="left"><input type="submit" value="Objective 4" /></form> </th>
-    <th width="10" style="border: none;"> <form action="https://mjc55.github.io/MicroFEWs_Legacy/Team/" align="left"><input type="submit" value="Objective 5" /></form> </th>
-    <th style="border: none;"> <form action="https://mjc55.github.io/MicroFEWs_Legacy/Team/" align="left"><input type="submit" value="Objective 6" /></form> </th>
+    <td width="100" style="border: none;"> <form action="https://mjc55.github.io/MicroFEWs_Legacy/Objectives/Objective_1/" align="left"><input type="submit" value="Objective 1" /></form> </th>
+    <td width="200" style="border: none;"> <form action="https://mjc55.github.io/MicroFEWs_Legacy/Team/" align="left"><input type="submit" value="Objective 2" /></form> </th>
+    <td width="100" style="border: none;"> <form action="https://mjc55.github.io/MicroFEWs_Legacy/Communities/?" align="center"><input type="submit" value="Objective 3" /></form>  </th>
+    <td width="300" style="border: none;"> <form action="https://mjc55.github.io/MicroFEWs_Legacy/Team/" align="left"><input type="submit" value="Objective 4" /></form> </th>
+    <td width="10" style="border: none;"> <form action="https://mjc55.github.io/MicroFEWs_Legacy/Team/" align="left"><input type="submit" value="Objective 5" /></form> </th>
+    <td style="border: none;"> <form action="https://mjc55.github.io/MicroFEWs_Legacy/Team/" align="left"><input type="submit" value="Objective 6" /></form> </th>
   </tr>
 </table>
 </p>
