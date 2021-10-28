@@ -15,6 +15,10 @@ This website is an active repository of the various components of the University
     </tr>
   </table>
 </p>
+.center {
+  margin-left: auto;
+  margin-right: auto;
+}
 
 
 # Our Research Questions
