@@ -7,7 +7,7 @@ This website is an active repository of the various components of the University
 
 
 <p align="center" text-align="center"><table style="border-collapse: collapse; border: none;">
-  <tr width="100%" style="border: none;">
+  <tr  style="border: none;">
     <th style="border: none;"> <form action="https://mjc55.github.io/MicroFEWs_Legacy/Team/" align="left"><input type="submit" value="Meet the Team!" /></form> </th>
     <th style="border: none;"> <form action="https://mjc55.github.io/MicroFEWs_Legacy/Communities/?" align="center"><input type="submit" value="Communities" /></form>  </th>
     <th style="border: none;"> <form action="https://mjc55.github.io/MicroFEWs_Legacy/Team/" align="left"><input type="submit" value="Meet the Team!" /></form> </th>
@@ -32,7 +32,8 @@ This website is an active repository of the various components of the University
 
 Buttons in Progress
 
-<p align="center" text-align="center"><table style="border-collapse: collapse; border: none;">
+<p align="center" text-align="center">
+<table width="100%" style="border-collapse: collapse; border: none;">
   <tr style="border: none;">
     <th style="border: none;"> <form action="https://mjc55.github.io/MicroFEWs_Legacy/Objectives/Objective_1/" align="left"><input type="submit" value="Objective 1" /></form> </th>
     <th style="border: none;"> <form action="https://mjc55.github.io/MicroFEWs_Legacy/Team/" align="left"><input type="submit" value="Objective 2" /></form> </th>
@@ -41,7 +42,8 @@ Buttons in Progress
     <th style="border: none;"> <form action="https://mjc55.github.io/MicroFEWs_Legacy/Team/" align="left"><input type="submit" value="Objective 5" /></form> </th>
     <th style="border: none;"> <form action="https://mjc55.github.io/MicroFEWs_Legacy/Team/" align="left"><input type="submit" value="Objective 6" /></form> </th>
   </tr>
-</table></p>
+</table>
+</p>
 
 
 <details>
