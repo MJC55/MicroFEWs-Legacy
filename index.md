@@ -6,7 +6,7 @@ This website is an active repository of the various components of the University
 
 
 
-<p align="center" class="center">
+<p align="center">
   <table style="border-collapse: collapse; border: none;">
     <tr style="border: none;">
       <th style="border: none;"> <form action="https://mjc55.github.io/MicroFEWs_Legacy/Team/" align="left"><input type="submit" value="Meet the Team!" /></form> </th>
@@ -15,10 +15,7 @@ This website is an active repository of the various components of the University
     </tr>
   </table>
 </p>
-.center {
-  margin-left: auto;
-  margin-right: auto;
-}
+
 
 
 # Our Research Questions
