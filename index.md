@@ -28,7 +28,20 @@ This website is an active repository of the various components of the University
 3. Investigate Modular Systems
 4. Develop Energy Distribution Models
 5. Synthesize MicroFEWs Model
-6. Condut Outreach and Develop Capacity
+6. Conduct Outreach and Develop Capacity
+
+Buttons in Progress
+
+<p align="center" text-align="center"><table style="border-collapse: collapse; border: none;">
+  <tr style="border: none;">
+    <th style="border: none;"> <form action="https://mjc55.github.io/MicroFEWs_Legacy/Objectives/Objective_1/" align="left"><input type="submit" value="Objective 1" /></form> </th>
+    <th style="border: none;"> <form action="https://mjc55.github.io/MicroFEWs_Legacy/Team/" align="left"><input type="submit" value="Objective 2" /></form> </th>
+    <th style="border: none;"> <form action="https://mjc55.github.io/MicroFEWs_Legacy/Communities/?" align="center"><input type="submit" value="Objective 3" /></form>  </th>
+    <th style="border: none;"> <form action="https://mjc55.github.io/MicroFEWs_Legacy/Team/" align="left"><input type="submit" value="Objective 4" /></form> </th>
+    <th style="border: none;"> <form action="https://mjc55.github.io/MicroFEWs_Legacy/Team/" align="left"><input type="submit" value="Objective 5" /></form> </th>
+    <th style="border: none;"> <form action="https://mjc55.github.io/MicroFEWs_Legacy/Team/" align="left"><input type="submit" value="Objective 6" /></form> </th>
+  </tr>
+</table></p>
 
 
 <details>
