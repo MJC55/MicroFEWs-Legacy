@@ -2,6 +2,33 @@
 <input type="submit" value="Back to Main Page" />
 </form>
 
+<details>
+  <summary> <b>Kongiganak</b> </summary>
+<br>
+<div style="text-align: justify"> 
+Kongiganak, AK (population 650) is a primarily Yup’ik Eskimo village situated on the Kongiganak River, near Kuskokwim Bay in southwest Alaska.
+
+
+The community’s microgrid is powered by two 200 kW diesel generators, at a cost of ~60 cents/kW to residents. Heating fuel costs about $5/gallon and consumes 
+about half of household income. In 2010, five 95 kW wind turbines were installed in this often windy community to harness the wind resource and to reduce the 
+fuel consumed for electricity generation. The installation was part of the Chaninik Wind Group formed by neighboring tribal governments in Kongiganak, Kwigilliingok, 
+Tuntutuliak, and Kipnuk after realizing that working together was the only way to survive the increasing fuel costs. Twenty ceramic thermal electric stoves were also 
+installed in community residences to use electricity from excess wind generation and reduce heating fuel costs. The wind turbines offset up to 30 – 40% of the diesel 
+required to meet the community’s base electric load, and the thermal stoves have made a barrel of heating fuel last up to six weeks instead of two. The community 
+attempted to install running water to all homes a few years ago. However, the project was never realized as logistics issues meant digging the pipes under the tundra 
+and risking them freezing by the permafrost. The community members still collect their water from a Village Safe Water treatment plant in barrels, and frugal use of 
+water in the home is employed.
+</div>
+
+<p align="center">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/90n9ga3SOQQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</p>
+ 
+  
+</details>
+
+
+
 # Kongiganak
 
 <div style="text-align: justify"> 
