@@ -56,6 +56,7 @@ attempted to install running water to all homes a few years ago. However, the pr
 and risking them freezing by the permafrost. The community members still collect their water from a Village Safe Water treatment plant in barrels, and frugal use of 
 water in the home is employed.
   <br>
+  <br>
 </div>
 
 <p align="center">
@@ -80,6 +81,7 @@ washeteria by approximately 50%. Since then, the biomass program has expanded to
 in the school, one in the city workshop, four in public housing, and two more newly installed in a triplex and a greenhouse. Due to the success of the biomass 
 program, city manager Jeff Weltzin has expressed interest in our proposed work, and seeks to explore with us the broader ramifications of bringing other forms 
 of renewable energy to his community.
+  <br>
   <br>
 </div>
 
