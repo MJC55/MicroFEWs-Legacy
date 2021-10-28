@@ -52,3 +52,49 @@ of renewable energy to his community.
 <p align="center">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/oHKIsZjXMUM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </p>
+
+# Cordova
+
+
+<div style="text-align: justify"> 
+Cordova, AK (population 2,239) is a maritime fishing community located in southcentral Alaska on the shores of Prince William Sound, near the mouth of the Copper River.
+<br>
+  <br>
+The city derives its power from a hydroelectric facility along with a diesel generator. Most community residencies are connected to the city water and wastewater treatment plants. According to mayor and utility manager Clay Koplin, Cordova has become a community of young families, and there is a growing interest in gardening, home food production, and clean safe drinking water. In addition to the mayor’s expressed interest in participating in the project, Cordova was selected for study as a means to address the scalability of the MicroFEWs modelling process. Cordova is larger than most isolated Alaska communities, and hosts a more robust industrial base (e.g., several commercial seafood processing facilities). Hence, evaluating FEW interactions on this scale will provide insights into the broader applicability of MicroFEWs.
+  <br>
+  <br>
+</div>
+
+<p align="center">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hhOpyZcuCyk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</p>
+
+
+
+
+# Igiugig
+
+
+<div style="text-align: justify"> 
+Igiugig, AK (population 69) is situated at the mouth of the Kvichak River, on Lake Iliamna, in southwest Alaska.
+  <br>
+  <br>
+The village’s population consists mainly of Yup’ik Eskimos, Aleuts, and Athabascan Indians. The community’s microgrid is powered by a diesel generator that was upgraded in 2011 as a step towards integrating renewable sources of energy, such as the Ocean Renewable Power Company (ORPC) hydrokinetic project under development in the Kvichak River. ORPC was recently awarded a grant through Alaska’s Emerging Energy Technology Fund program to continue development and demonstration of a microgrid controller and grid forming inverter capable of dispatching multiple types of renewable resources in an effort to increase renewable penetration levels on microgrids and ultimately operate in “diesel off” mode." Igiugig also has several small wind turbines, and the community is exploring options for solar photovoltaic power. Residents maintain several greenhouses as well as a community chicken coop and are eager to explore more local food options.
+  <br>
+  <br>
+</div>
+
+<p align="center">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pMzxHf-VBfs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</p>
+
+
+
+
+
+
+
+<form action="https://mjc55.github.io/MicroFEWs_Legacy/" align="center">
+<input type="submit" value="Back to Main Page" />
+</form>
+
