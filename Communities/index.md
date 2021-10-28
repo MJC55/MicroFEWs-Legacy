@@ -27,6 +27,17 @@ water in the home is employed.
   
 </details>
 
+<button type="button" class="collapsible"><b> Kongiganak </b></button>
+<div class="content">
+  <p>
+    Kongiganak, AK (population 650) is a primarily Yup’ik Eskimo village situated on the Kongiganak River, near Kuskokwim Bay in southwest Alaska.
+    <br>
+    <br>
+    The community’s mi
+  </p>
+</div>
+
+
 
 
 # Kongiganak
