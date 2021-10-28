@@ -18,7 +18,7 @@ This website is an active repository of the various components of the University
 
 
 
-# Our Research Questionssdf
+# Our Research Questions
 
 * <div style="text-align: justify"> What are the direct and indirect linkages and feedbacks between renewable energy generation and the local drivers of food, energy, and water (FEW) security in Arctic and Subarctic communities? </div> 
 * <div style="text-align: justify"> To what extent can combinations of renewable energy generation and FEW-related infrastructure energy loads be optimized to enhance FEW security in Arctic and Subarctic communities? </div> 
