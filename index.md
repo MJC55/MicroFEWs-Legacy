@@ -77,5 +77,7 @@ Dr. Richard Wies in an interview describing the Food-Energy-Water nexus.
 
 
 <br />
---------------------------------------------
+
+---
+
 <p aling="center">This project is funded by the National Science Foundation Award #1740075 InFEWS/T3: Coupling infrastructure improvements to food-energy-water system dynamics in small cold   region communities: MicroFEWs.<br>Project Leads: William Schnabel (University of Alaska Fairbanks), Erin Whitney (University of Alaska Fairbanks), Daisy Huang (University of Alaska Fairbanks), Jen Schmidt (University of Alaska Anchorage), Rich Wies (University of Alaska Fairbanks)</p>
