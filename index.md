@@ -14,7 +14,7 @@ This website is an active repository of the various components of the University
 
 
 
-<table>
+<table style="border-collapse: collapse; border: none;">
   <tr style="border: none;">
     <th style="border: none;"><form action="https://mjc55.github.io/MicroFEWs_Legacy/Team/" align="left"><input type="submit" value="Meet the Team!" /></form></th>
     <th style="border: none;"><form action="https://mjc55.github.io/MicroFEWs_Legacy/Team/" align="left"><input type="submit" value="Meet the Team!" /></form></th>
