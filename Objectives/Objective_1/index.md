@@ -4,7 +4,7 @@
 
 
 <p align="center" text-align="center"><table style="border-collapse: collapse; border: none;">
-  <tr style="border: none;">
+  <tr width="100%" style="border: none;">
     <th style="border: none;"> <form action="https://mjc55.github.io/MicroFEWs_Legacy/Team/" align="left"><input type="submit" value="Objective 2" /></form> </th>
     <th style="border: none;"> <form action="https://mjc55.github.io/MicroFEWs_Legacy/Communities/?" align="center"><input type="submit" value="Objective 3" /></form>  </th>
     <th style="border: none;"> <form action="https://mjc55.github.io/MicroFEWs_Legacy/Team/" align="left"><input type="submit" value="Objective 4" /></form> </th>
