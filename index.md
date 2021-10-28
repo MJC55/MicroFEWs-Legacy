@@ -35,7 +35,7 @@ This website is an active repository of the various components of the University
 Buttons in Progress
 
 <p align="center" text-align="center">
-<table width="50%" border="0" cellspacing="0" cellpadding="0" style="border-collapse: collapse; border: none;">
+<table style="border-collapse: collapse; border: none;">
   <tr style="border: none;">
     <th style="border: none;"> <form action="https://mjc55.github.io/MicroFEWs_Legacy/Objectives/Objective_1/" align="left"><input type="submit" value="Objective 1" /></form> </th>
     <th style="border: none;"> <form action="https://mjc55.github.io/MicroFEWs_Legacy/Team/" align="left"><input type="submit" value="Objective 2" /></form> </th>
