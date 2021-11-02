@@ -17,7 +17,7 @@
 
 # Objective 1: Stakeholder Developement of the FEW Framework
 
-## Leadss
+## Leads
 Jennifer Schmidt <br/>
 jischmidt0@gmail.com
 
