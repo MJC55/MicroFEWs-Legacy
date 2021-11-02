@@ -39,3 +39,16 @@ Engaging communities early in research projects is a necessary step to establish
 <div style="text-align: justify"> 
 We will work with communities to design a framework correlating community FEW security to optimization of food and water related infrastructure in a renewable-powered grid. We will identify linkages among food, water, and energy, elucidate real-world trade-offs residents may make to meet their FEW needs, determine metrics desirable to researchers and the community, and assess culturally relevant ways to collect such data. Specifically, we will engage community experts (i.e. utility managers, store owners, tribal leaders, freight agents, etc.) in a collaborative exercise to create a set of conceptual diagrams for local food, water, and energy system
 </div>
+<br/>
+| Goal | Status | 
+| ---  | ---  | 
+|  <img width=700/>  |  <img width=100/>  |  
+| Evaluate effects of the models (i.e. scenarios) from Objective 4 on FEW metrics	| Upcoming | 
+| In the Decision Theater North (DTN), present to the stakeholder advisory board members the scenarios with effects on FEW metrics	| Upcoming | 
+| Hold subsequent meetings to refine scenarios	| Upcoming | 
+| Characterize differences between modeling processes/outcomes at the three communities to address MicroFEWs scalability	| Upcoming | 
+| Share results with the broader scientific community nationally and globally through journals and presentations in technical, trade, and policy forums, and outreach to related | organizations	| Upcoming | 
+
+
+
+## Highlights
