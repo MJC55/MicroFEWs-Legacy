@@ -39,11 +39,11 @@ See our objectives in more detail:
 <table style="border-collapse: collapse; border: none;font-size:95%">
   <tr style="border: none;">
     <td width="90" style="border: none;"> <form action="https://mjc55.github.io/MicroFEWs_Legacy/Objectives/Objective_1/" align="left"><input type="submit" value="Objective 1" /></form> </td>
-    <td width="100" style="border: none;"> <form action="https://mjc55.github.io/MicroFEWs_Legacy/Team/" align="left"><input type="submit" value="Objective 2" /></form> </td>
-    <td width="80" style="border: none;"> <form action="https://mjc55.github.io/MicroFEWs_Legacy/Communities/?" align="center"><input type="submit" value="Objective 3" /></form>  </td>
-    <td width="100" style="border: none;"> <form action="https://mjc55.github.io/MicroFEWs_Legacy/Team/" align="left"><input type="submit" value="Objective 4" /></form> </td>
-    <td width="70" style="border: none;"> <form action="https://mjc55.github.io/MicroFEWs_Legacy/Team/" align="left"><input type="submit" value="Objective 5" /></form> </td>
-    <td width="100" style="border: none;"> <form action="https://mjc55.github.io/MicroFEWs_Legacy/Team/" align="left"><input type="submit" value="Objective 6" /></form> </td>
+    <td width="100" style="border: none;"> <form action="https://mjc55.github.io/MicroFEWs_Legacy/Objectives/Objective_2" align="left"><input type="submit" value="Objective 2" /></form> </td>
+    <td width="80" style="border: none;"> <form action="https://mjc55.github.io/MicroFEWs_Legacy/Objectives/Objective_3" align="center"><input type="submit" value="Objective 3" /></form>  </td>
+    <td width="100" style="border: none;"> <form action="https://mjc55.github.io/MicroFEWs_Legacy/Objectives/Objective_4" align="left"><input type="submit" value="Objective 4" /></form> </td>
+    <td width="70" style="border: none;"> <form action="https://mjc55.github.io/MicroFEWs_Legacy/Objectives/Objective_5" align="left"><input type="submit" value="Objective 5" /></form> </td>
+    <td width="100" style="border: none;"> <form action="https://mjc55.github.io/MicroFEWs_Legacy/Objectives/Objective_6" align="left"><input type="submit" value="Objective 6" /></form> </td>
   </tr>
 </table>
 </p>
