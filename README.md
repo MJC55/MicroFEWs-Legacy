@@ -5,6 +5,9 @@ Test-Repo to showcast GitHub potential for MicroFEWs data archiving, with public
 <br />
 [GitHub Page](https://mjc55.github.io/MicroFEWs_Legacy/)
 
+With more time, or more skills: <br />
+Explore default.html configuration options(e.g. navigation bar) https://dh.obdurodon.org/jekyll.xhtml
+
 Potential Theme Addition: <br />
 https://jekyllthemes.io/theme/bulma <br />
 https://jekyllthemes.io/theme/minimal-mistakes <br />
