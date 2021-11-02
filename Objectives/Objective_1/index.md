@@ -54,9 +54,22 @@ We will work with communities to design a framework correlating community FEW se
 
 ## Highlights
 
-<img src="Objectives/Objective_1/conceptual_cordova.jpg" width=800>
+
 
 <img src="conceptual_cordova.jpg" width=800>
+.img:hover{
+    color: #424242; 
+  -webkit-transition: all .3s ease-in;
+  -moz-transition: all .3s ease-in;
+  -ms-transition: all .3s ease-in;
+  -o-transition: all .3s ease-in;
+  transition: all .3s ease-in;
+  opacity: 1;
+  transform: scale(1.15);
+  -ms-transform: scale(1.15); /* IE 9 */
+  -webkit-transform: scale(1.15); /* Safari and Chrome */
+
+}
 
 Hello Hello
 Hello
@@ -65,6 +78,3 @@ Hello
 Hello
 
 
-[![](Objectives/Objective_1/conceptual_cordova.jpg)](Objectives/Objective_1/conceptual_cordova.jpg)
-
-Objectives/Objective_1/conceptual_cordova.jpg
