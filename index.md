@@ -33,6 +33,7 @@ This website is an active repository of the various components of the University
 6. Conduct Outreach and Develop Capacity
 
 Buttons in Progress
+See our objectives in more detail:
 
 <p align="center" text-align="center">
 <table style="border-collapse: collapse; border: none;font-size:60%">
