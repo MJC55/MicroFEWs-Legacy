@@ -50,7 +50,7 @@ See our objectives in more detail:
 
 
 <details>
-<summary> **How do I dropdown?**</summary>
+<summary> <b> How do I dropdown? </b></summary>
 <br>
 This is how you dropdown.
 </details>
