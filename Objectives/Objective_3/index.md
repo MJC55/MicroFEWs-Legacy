@@ -17,7 +17,7 @@
 
 # Objective 3: Modular Systems Case Studies
 
-## Leads
+## Lead
 Srijan Aggarwal
 saggarwal@alaska.edu
 
