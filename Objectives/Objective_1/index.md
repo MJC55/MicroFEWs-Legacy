@@ -53,3 +53,6 @@ We will work with communities to design a framework correlating community FEW se
 
 
 ## Highlights
+
+
+[![](img.jpg)](img.jpg)
