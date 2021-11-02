@@ -55,8 +55,9 @@ We will work with communities to design a framework correlating community FEW se
 ## Highlights
 
 
-
+<p align="center">
 <img src="conceptual_cordova.jpg" width=800>
+</p>
 .img:hover{
     color: #424242; 
   -webkit-transition: all .3s ease-in;
