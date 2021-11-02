@@ -35,10 +35,10 @@ This website is an active repository of the various components of the University
 Buttons in Progress
 
 <p align="center" text-align="center">
-<table style="border-collapse: collapse; border: none;">
+<table style="border-collapse: collapse; border: none;font-size:60%">
   <tr style="border: none;">
     <td width="100" style="border: none;"> <form action="https://mjc55.github.io/MicroFEWs_Legacy/Objectives/Objective_1/" align="left"><input type="submit" value="Objective 1" /></form> </td>
-    <td width="200" style="border: none;"> <form action="https://mjc55.github.io/MicroFEWs_Legacy/Team/" align="left"><input type="submit" value="Objective 2" /></form> </td>
+    <td width="200" style="border: none;"> <form action="https://mjc55.github.io/MicroFEWs_Legacy/Team/" align="left"><input type="submit" value="Objctive 2" /></form> </td>
     <td width="100" style="border: none;"> <form action="https://mjc55.github.io/MicroFEWs_Legacy/Communities/?" align="center"><input type="submit" value="Objective 3" /></form>  </td>
     <td width="300" style="border: none;"> <form action="https://mjc55.github.io/MicroFEWs_Legacy/Team/" align="left"><input type="submit" value="Objective 4" /></form> </td>
     <td width="10" style="border: none;"> <form action="https://mjc55.github.io/MicroFEWs_Legacy/Team/" align="left"><input type="submit" value="Objective 5" /></form> </td>
