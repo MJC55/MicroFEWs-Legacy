@@ -54,5 +54,15 @@ We will work with communities to design a framework correlating community FEW se
 
 ## Highlights
 
+<img src="Objectives/Objective_1/conceptual_cordova.jpg" width=800>
 
-[![](img.jpg)](img.jpg)
+Hello Hello
+Hello
+
+
+Hello
+
+
+[![](Objectives/Objective_1/conceptual_cordova.jpg)](Objectives/Objective_1/conceptual_cordova.jpg)
+
+Objectives/Objective_1/conceptual_cordova.jpg
