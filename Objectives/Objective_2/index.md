@@ -17,7 +17,7 @@
 
 # Objective 2: Baseline Data Collection
 
-## Leads
+## Lead
 Daisy Huang <br/>
 dhuang@alaska.edu
 
