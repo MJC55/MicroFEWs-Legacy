@@ -43,7 +43,7 @@ We will work with communities to design a framework correlating community FEW se
 | Goal | Status | 
 | ---  | ---  | 
 |  <img width=700/>  |  <img width=100/>  |  
-| Evaluate effects of the models (i.e. scenarios) from Objective 4 on FEW metrics	| Upcoming | 
+| Evaluate effects of the models (i.e. scenarios) from <a href="https://mjc55.github.io/MicroFEWs_Legacy/Objectives/Objective_4">Objective 4</a> on FEW metrics	| Upcoming | 
 | In the Decision Theater North (DTN), present to the stakeholder advisory board members the scenarios with effects on FEW metrics	| Upcoming | 
 | Hold subsequent meetings to refine scenarios	| Upcoming | 
 | Characterize differences between modeling processes/outcomes at the three communities to address MicroFEWs scalability	| Upcoming | 
