@@ -18,8 +18,8 @@
 # Objective 3: Modular Systems Case Studies
 
 ## Leads
-Jennifer Schmidt <br/>
-jischmidt0@gmail.com
+Srijan Aggarwal
+saggarwal@alaska.edu
 
 ## Research Question
 <div style="text-align: justify"> 
