@@ -23,7 +23,7 @@ weschnabel@alaska.edu
 
 ## Research Question
 <div style="text-align: justify"> 
-What are the feedbacks between the on-grid infrastructure components described in [Objective 4](), and the off-grid drivers of the local FEW nexus?
+What are the feedbacks between the on-grid infrastructure components described in <a href="https://mjc55.github.io/MicroFEWs_Legacy/Objectives/Objective_4">Objective 4</a>, and the off-grid drivers of the local FEW nexus?
 </div>
  
 
