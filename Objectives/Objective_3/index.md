@@ -42,3 +42,13 @@ technologies into the modelling process.
 <div style="text-align: justify"> 
   
 </div>
+
+
+| Goals | Status |
+|---   |---  |
+| Characterize operation of Lifewater systems with intermittent power, and describe optimal operating conditions as dispatchable loads	| In Progress
+| Evaluate Lifewater biosolids for potential agricultural use	| Deferred
+| Evaluate energy reduction options for UAA water reuse systems through process optimization or integration of multiple systems	| Complete
+| Investigate modifications to the UAA water reuse system necessary for operation as dispatchable load	| In Progress
+| Evaluate function and productivity of CropBox system under the three energy system scenarios	| Complete
+| Add performance characterization data to database developed in Objective 2	| Upcoming
