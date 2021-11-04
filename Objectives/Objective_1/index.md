@@ -61,37 +61,37 @@ We will work with communities to design a framework correlating community FEW se
 
 <p align="center" text-align="center"><table style="border-collapse: collapse; border: none;">
   <tr width="100%" style="border: none;">
-    <th width="400" style="border: none;"> <embed src="solar_infographic.pdf" width="230px" height="600px" /> <p><a href="solar_infographic.pdf">Solar PV Infographic</a> </p>  </th>
-    <th width="400" style="border: none;"> <embed src="windturbines_infographic.pdf" width="230px" height="600px" /> <p><a href="Objectives/Objective_1/windturbines_infographic.pdf">Wind Turbine Infographic</a></p>  </th>
-    <th width="400" style="border: none;"> <embed src="hydro_infographic.pdf" width="230px" height="600px" /> <p><a href="Objectives/Objective_1/hydro_infographic.pdf">Hydropower Infographic</a></p>  </th>
+    <th width="400" style="border: none;"> <embed src="solar_infographic.pdf" width="230px" height="600px" /> <p><a href="solar_infographic.pdf" target="_blank">Solar PV Infographic</a> </p>  </th>
+    <th width="400" style="border: none;"> <embed src="windturbines_infographic.pdf" width="230px" height="600px" /> <p><a href="Objectives/Objective_1/windturbines_infographic.pdf" target="_blank">Wind Turbine Infographic</a></p>  </th>
+    <th width="400" style="border: none;"> <embed src="hydro_infographic.pdf" width="230px" height="600px" /> <p><a href="Objectives/Objective_1/hydro_infographic.pdf" target="_blank">Hydropower Infographic</a></p>  </th>
   </tr>
 </table></p>
 
 
 ### Publications
 
-* [Stoking the Flame: Subsistence and wood energy in rural Alaska, United States](schmidt-et-al-2021-biomass-tanana-subsistence.pdf), by Jennifer I. Schmidt, Amanda Byrd, Jennifer Curl, Todd J. Brinkman, Krista Heeringa. Energy Research & Social Science 71, 2021
+* [Stoking the Flame: Subsistence and wood energy in rural Alaska, United States](schmidt-et-al-2021-biomass-tanana-subsistence.pdf){:target="_blank" rel="noopener"} , by Jennifer I. Schmidt, Amanda Byrd, Jennifer Curl, Todd J. Brinkman, Krista Heeringa. Energy Research & Social Science 71, 2021
 
-* [Food, Energy & Water](microfewsreport_foodenergywater_august2020-2.pdf), Community Report, August 2020
+* [Food, Energy & Water](microfewsreport_foodenergywater_august2020-2.pdf){:target="_blank" rel="noopener"} , Community Report, August 2020
 
-* [Renewable Energy](microfewscommunityreport_re_july62020.pdf), Community Report, July 2020
+* [Renewable Energy](microfewscommunityreport_re_july62020.pdf){:target="_blank" rel="noopener"} , Community Report, July 2020
 
-* [MicroFEWs – A Food-Energy-Water (FEW) Systems Approach to Renewable Energy Decisions in Islanded Microgrid Communities in Rural Alaska](https://www.liebertpub.com/doi/10.1089/ees.2019.0055), by Whitney E., Aggarwal S., Huang D., Wies R.W., Huntington H.P., Schmidt J.I., Dotson A.D., Karenzi J., Environmental Engineering Science, July 2019
+* [MicroFEWs – A Food-Energy-Water (FEW) Systems Approach to Renewable Energy Decisions in Islanded Microgrid Communities in Rural Alaska](https://www.liebertpub.com/doi/10.1089/ees.2019.0055){:target="_blank" rel="noopener"} , by Whitney E., Aggarwal S., Huang D., Wies R.W., Huntington H.P., Schmidt J.I., Dotson A.D., Karenzi J., Environmental Engineering Science, July 2019
 
 * Dr. Richard Wies talks about MicroFEWs at the 2018 AGU Fall Meeting
   <p align="center">
   <iframe width="400" height="200" src="https://www.youtube.com/embed/gEZQeBnrdHY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
   </p>
 
-* [Planting the Seeds to Examine Food Security Challenges in the Alaska Food-Energy-Water Nexus](afpc_final_03072019.pdf), Presentation at Alaska Food Policy Council, March 2019
+* [Planting the Seeds to Examine Food Security Challenges in the Alaska Food-Energy-Water Nexus](afpc_final_03072019.pdf){:target="_blank" rel="noopener"} , Presentation at Alaska Food Policy Council, March 2019
 
-* [Literature review of FEW research and the FEW nexus](few_literature_review_may2019.pdf)
+* [Literature review of FEW research and the FEW nexus](few_literature_review_may2019.pdf){:target="_blank" rel="noopener"} 
 
-* [Renewable Energy, Community, and Culture: Tanana, Alaska](tanana_presentation_october2018schmidt.pdf), Presentation in Tanana, October 2018
+* [Renewable Energy, Community, and Culture: Tanana, Alaska](tanana_presentation_october2018schmidt.pdf){:target="_blank" rel="noopener"} , Presentation in Tanana, October 2018
 
-* [Understanding the Impacts of Renewable Energy and Infrastructure Loads on Food-Energy-Water Security in Remote Arctic Communities](2018-AGU-PPTX-GC52B-07_Wies_UAF_Compressed.pptx),  Presentation at American Geophysical Union, Fall Meeting 2018 
+* [Understanding the Impacts of Renewable Energy and Infrastructure Loads on Food-Energy-Water Security in Remote Arctic Communities](2018-AGU-PPTX-GC52B-07_Wies_UAF_Compressed.pptx){:target="_blank" rel="noopener"} ,  Presentation at American Geophysical Union, Fall Meeting 2018 
 
-* [Heating Fuel Use Data – first year results](https://youtu.be/fnYiyiL68ZA)
+* [Heating Fuel Use Data – first year results](https://youtu.be/fnYiyiL68ZA){:target="_blank" rel="noopener"} 
 
 * Hosted kick-off workshop at UAF in April 2018
 
