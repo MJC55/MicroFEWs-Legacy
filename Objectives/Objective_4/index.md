@@ -18,7 +18,7 @@
 # Objective 4: Novel Energy Distribution Models
 
 ## Lead
-Richard Wies
+Richard Wies <br/>
 rwwiesjr@alaska.edu
 
 ## Research Question
