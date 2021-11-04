@@ -168,7 +168,6 @@
     University of Alaska Anchorage, Interim Vice Provost for Research & Director, Applied Environmental Research Center <br>
     addotson@alaska.edu <br>
 </p>
-<br />
 
 ---
 
@@ -178,7 +177,6 @@
     University of Calgary  <br>
     scgerlac@ucalgary.ca <br>
 </p>
-<br />
 
 ---
 
