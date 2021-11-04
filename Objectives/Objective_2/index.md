@@ -44,7 +44,7 @@ We will work with communities to design a framework correlating community FEW se
 | Goals | Status |
 |---   |---  |
 | Upon consultation with community, compile planned data measurements and methods	| In&nbsp;Progress |
-| Measure time series data of energy inputs and outputs in each leg of the FEW nexus, in each community over a year	| In Progress |
-| Describe current states of technologies, performance parameters and use cases, as well as availabilities and capabilities for use in demand-response approaches	| In Progress |
-| Design database and content specifications	| Upcoming |
-| Complete database	| Complete |
+| Measure time series data of energy inputs and outputs in each leg of the FEW nexus, in each community over a year	| In&nbsp;Progress |
+| Describe current states of technologies, performance parameters and use cases, as well as availabilities and capabilities for use in demand-response approaches	| In&nbsp;Progress |
+| Design database and content specifications	| In&nbsp;Progress |
+| Complete database	| In&nbsp;Progress |
