@@ -7,8 +7,9 @@ description: Exploring the Nexus between Food, Energy, and Water <br/> <img src=
 github:
   is_project_page: false
   
-sidebars:
-  -sidebar
+#sidebars:
+#  -sidebar
+#https://github.com/amzn/jekyll-doc-project/blob/master/_config.yml
 
 # Site Author
 author:
