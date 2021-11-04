@@ -62,8 +62,8 @@ We will work with communities to design a framework correlating community FEW se
 <p align="center" text-align="center"><table style="border-collapse: collapse; border: none;">
   <tr width="100%" style="border: none;">
     <th width="400" style="border: none;"> <embed src="solar_infographic.pdf" width="230px" height="600px" /> <p><a href="solar_infographic.pdf" target="_blank">Solar PV Infographic</a> </p>  </th>
-    <th width="400" style="border: none;"> <embed src="windturbines_infographic.pdf" width="230px" height="600px" /> <p><a href="Objectives/Objective_1/windturbines_infographic.pdf" target="_blank">Wind Turbine Infographic</a></p>  </th>
-    <th width="400" style="border: none;"> <embed src="hydro_infographic.pdf" width="230px" height="600px" /> <p><a href="Objectives/Objective_1/hydro_infographic.pdf" target="_blank">Hydropower Infographic</a></p>  </th>
+    <th width="400" style="border: none;"> <embed src="windturbines_infographic.pdf" width="230px" height="600px" /> <p><a href="windturbines_infographic.pdf" target="_blank">Wind Turbine Infographic</a></p>  </th>
+    <th width="400" style="border: none;"> <embed src="hydro_infographic.pdf" width="230px" height="600px" /> <p><a href="hydro_infographic.pdf" target="_blank">Hydropower Infographic</a></p>  </th>
   </tr>
 </table></p>
 
