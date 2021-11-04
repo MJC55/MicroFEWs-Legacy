@@ -1,5 +1,5 @@
 <form action="https://mjc55.github.io/MicroFEWs_Legacy/" align="center" style="bold">
-<input type="submit" value="<b>Back to Main Page<\b>" />
+<input type="submit" value="Back to Main Page" />
 </form>
 
 
