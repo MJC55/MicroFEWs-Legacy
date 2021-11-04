@@ -61,11 +61,7 @@ We will work with communities to design a framework correlating community FEW se
 
 <p align="center" text-align="center"><table style="border-collapse: collapse; border: none;">
   <tr width="100%" style="border: none;">
-    <th width="400" style="border: none;"> <object data="solar_infographic.pdf" type="application/pdf" width="700px" height="700px">
-    <embed src="solar_infographic.pdf">
-        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="http://yoursite.com/the.pdf">Download PDF</a>.</p>
-    </embed>
-    </object> </th>
+    <th width="400" style="border: none;"> <embed src="solar_infographic.pdf" width="300px" height="300px" /> <p>Infograpchi Text goes here </p>  </th>
     <th width="400" style="border: none;"> <embed src="solar_infographic.pdf" width="300px" height="300px" /> <p>Infograpchi Text goes here </p>  </th>
     <th width="400" style="border: none;"> <embed src="solar_infographic.pdf" width="300px" height="300px" /> <p>Infograpchi Text goes here </p>  </th>
   </tr>
