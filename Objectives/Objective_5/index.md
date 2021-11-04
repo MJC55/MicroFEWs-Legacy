@@ -18,7 +18,7 @@
 # Objective 5: MicroFEWs Synthesis
 
 ## Lead
-Bill Schnabel
+Bill Schnabel <br/>
 weschnabel@alaska.edu
 
 ## Research Question
