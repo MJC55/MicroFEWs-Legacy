@@ -71,6 +71,10 @@ We will work with communities to design a framework correlating community FEW se
   </tr>
 </table></p>
 
+
+Embed PDF
+
+
 <object data="solar_infographic.pdf" type="application/pdf" width="700px" height="700px">
     <embed src="solar_infographic.pdf">
         <p>This browser does not support PDFs. Please download the PDF to view it: <a href="http://yoursite.com/the.pdf">Download PDF</a>.</p>
