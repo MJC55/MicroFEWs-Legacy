@@ -17,7 +17,6 @@
 </div>
 <br />
 
----
 
 <p style="text-align:right">
 <img src="Rich_W.jpg" width=150 align="right" style="padding-left: 20px; padding-bottom: 5px;" />
@@ -31,7 +30,6 @@
 </div>
 <br />
 
----
 
 <p>
 <img src="Srijan.jpg" width=150 align="left" style="padding-right: 20px; padding-bottom: 5px;" />
@@ -45,7 +43,6 @@
 </div>
 <br />
 
----
 
 <p style="text-align:right">
 <img src="Daisy.jpg" width=150 align="right" style="padding-left: 20px; padding-bottom: 5px;" />
@@ -59,7 +56,6 @@
 </div>
 <br />
 
----
 
 <p>
 <img src="Henry.jpg" width=150 align="left" style="padding-right: 20px; padding-bottom: 5px;" />
@@ -86,7 +82,6 @@
 </div>
 <br />
 
----
 
 <p>
 <img src="Barbara_J.jpg" width=150 align="left" style="padding-right: 20px; padding-bottom: 5px;" />
@@ -100,7 +95,6 @@
 </div>
 <br />
 
----
 
 <p style="text-align:right">
 <img src="Chris_P.jpg" width=150 align="right" style="padding-left: 20px; padding-bottom: 5px;" />
@@ -114,7 +108,6 @@
 </div>
 <br />
 
----
 
 <p>
 <img src="Dan_Sambor.jpg" width=150 align="left" style="padding-right: 20px; padding-bottom: 5px;" />
@@ -128,7 +121,6 @@
 </div>
 <br />
 
----
 
 <p style="text-align:right">
 <img src="Jenn_S.jpg" width=150 align="right" style="padding-left: 20px; padding-bottom: 5px;" />
@@ -142,7 +134,6 @@
 </div>
 <br />
 
----
 
 <p>
 <img src="Bill_S.jpg" width=150 align="left" style="padding-right: 20px; padding-bottom: 5px;" />
@@ -156,7 +147,6 @@
 </div>
 <br />
 
----
 
 <p style="text-align:right">
 <img src="Justus.jpg" width=150 align="right" style="padding-left: 20px; padding-bottom: 5px;" />
@@ -170,7 +160,6 @@
 </div>
 <br />
 
----
 
 
 <p>
@@ -181,7 +170,6 @@
 <br />
 <br />
 
----
 
 
 <p style="text-align:right">
@@ -193,7 +181,6 @@
 <br />
 <br />
 
----
 
 <p>
     <b>Craig Gerlach</b> <br> 
