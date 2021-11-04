@@ -38,7 +38,7 @@ The goal of this objective is to communicate project results in a way that not o
 
 | Goal  | Status  |
 |---   |---  |
-| Develop lectures and webcasts for [ARENA program](https://arena.alaska.edu/)	| In Progress |
+| Develop lectures and webcasts for [ARENA program](https://arena.alaska.edu/)	| In&nbsp;Progress |
 | Develop fact sheets for distribution to communities and for outreach activities	| Completed |
-| Link fact sheets prominently on the Alaska Energy Data Gateway	| In Progress |
-| Conduct final overview town hall discussions in study communities	| Uncertain (COVID) |
+| Link fact sheets prominently on the Alaska Energy Data Gateway	| In&nbsp;Progress |
+| Conduct final overview town hall discussions in study communities	| Uncertain&nbsp;(COVID) |
