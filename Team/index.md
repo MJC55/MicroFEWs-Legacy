@@ -16,7 +16,6 @@
 "The MicroFEWS project is a unique opportunity to quantify the effects of current and future renewable energy generation on measurable food and water outcomes in Alaska communities.  I'm excited to be working with these communities and to hear their input and feedback on these connections."
 </div>
 <br />
-
 ---
 <p style="text-align:right">
 <img src="Rich_W.jpg" width=150 align="right" style="padding-left: 20px; padding-bottom: 5px;" />
@@ -29,7 +28,6 @@
 "Past experiences have shown that proper integration of renewable energy systems in remote Alaska communities is critical for maintaining reliable electricity and heat which translates to reliable food and water systems. Using energy as a lens in this project we hope to better understand and predict how renewable energy would impact food, energy, and water security in these remote communities."
 </div>
 <br />
-
 ---
 <p>
 <img src="Srijan.jpg" width=150 align="left" style="padding-right: 20px; padding-bottom: 5px;" />
