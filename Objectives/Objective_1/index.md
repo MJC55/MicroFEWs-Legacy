@@ -55,6 +55,11 @@ We will work with communities to design a framework correlating community FEW se
 
 ## Highlights
 
+### Publications
+
+
+### Additional Content
+
 
 <p align="center">
 <img src="conceptual_cordova.jpg" width=800>
