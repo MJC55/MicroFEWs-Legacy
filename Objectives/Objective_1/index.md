@@ -43,13 +43,13 @@ We will work with communities to design a framework correlating community FEW se
 
 | Goals | Status |
 |---   |---  |
-| Identify community energy leaders and energy stakeholder advisory board	| Completed
-| Host kickoff meeting at Decision Theater North	| Completed
-| Schedule initial community meetings	| Completed
-| Identify on-grid or off-grid existing and desired infrastructure components impacting local FEW nexus	| Completed
-| Compile conceptual maps, to be made available for the community and stakeholder advisory board	| Completed
-| Document and prioritize FEW linkages and feedbacks, trade-offs, and needs	| Completed
-| Develop informative FEW security and usage metrics, and identify culturally appropriate methods to capture them	| Completed
+| Identify community energy leaders and energy stakeholder advisory board	| Completed |
+| Host kickoff meeting at Decision Theater North	| Completed |
+| Schedule initial community meetings	| Completed |
+| Identify on-grid or off-grid existing and desired infrastructure components impacting local FEW nexus	| Completed |
+| Compile conceptual maps, to be made available for the community and stakeholder advisory board	| Completed |
+| Document and prioritize FEW linkages and feedbacks, trade-offs, and needs	| Completed |
+| Develop informative FEW security and usage metrics, and identify culturally appropriate methods to capture them	| Completed |
 
 
 
