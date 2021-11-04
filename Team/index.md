@@ -17,7 +17,7 @@
 </div>
 <br />
 
-
+---
 <p style="text-align:right">
 <img src="Rich_W.jpg" width=150 align="right" style="padding-left: 20px; padding-bottom: 5px;" />
     <b>Richard Wies</b> <br> 
@@ -30,7 +30,7 @@
 </div>
 <br />
 
-
+---
 <p>
 <img src="Srijan.jpg" width=150 align="left" style="padding-right: 20px; padding-bottom: 5px;" />
     <b>Srijan Aggarwal</b> <br> 
