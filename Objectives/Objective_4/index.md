@@ -39,6 +39,6 @@ test these control strategies in a full-scale microgrid laboratory.
 |---   |---  |
 | Summarize framework of model components	| Completed | 
 | Summarize initial models based on theoretical limits	| Completed |
-| Summarize models with time domain additions	| In Progress |
-| Demonstrate implementation of models using community data	| In Progress |
-| Prepare publication(s) describing modeling components and frameworks, as well as model implementation for the communities, and identify conference(s) for presentation	| In Progress |
+| Summarize models with time domain additions	| Deferred |
+| Demonstrate implementation of models using community data	| Completed |
+| Prepare publication(s) describing modeling components and frameworks, as well as model implementation for the communities, and identify conference(s) for presentation	| Completed |
