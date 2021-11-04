@@ -66,8 +66,8 @@ We will work with communities to design a framework correlating community FEW se
         <p>This browser does not support PDFs. Please download the PDF to view it: <a href="http://yoursite.com/the.pdf">Download PDF</a>.</p>
     </embed>
     </object> </th>
-    <th width="400" style="border: none;"> <embed src="solar_infographic.pdf" width="200px" height="300px" /> <p>Infograpchi Text goes here </p>  </th>
-    <th width="400" style="border: none;">  </th>
+    <th width="400" style="border: none;"> <embed src="solar_infographic.pdf" width="300px" height="300px" /> <p>Infograpchi Text goes here </p>  </th>
+    <th width="400" style="border: none;"> <embed src="solar_infographic.pdf" width="300px" height="300px" /> <p>Infograpchi Text goes here </p>  </th>
   </tr>
 </table></p>
 
