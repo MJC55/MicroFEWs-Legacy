@@ -39,3 +39,12 @@ Types of data will include current states of technologies, performance parameter
 <div style="text-align: justify"> 
 We will work with communities to design a framework correlating community FEW security to optimization of food and water related infrastructure in a renewable-powered grid. We will identify linkages among food, water, and energy, elucidate real-world trade-offs residents may make to meet their FEW needs, determine metrics desirable to researchers and the community, and assess culturally relevant ways to collect such data. Specifically, we will engage community experts (i.e. utility managers, store owners, tribal leaders, freight agents, etc.) in a collaborative exercise to create a set of conceptual diagrams for local food, water, and energy system
 </div>
+
+
+| Goals | Status |
+|---   |---  |
+| Upon consultation with community, compile planned data measurements and methods	| In Progress
+| Measure time series data of energy inputs and outputs in each leg of the FEW nexus, in each community over a year	| In Progress
+| Describe current states of technologies, performance parameters and use cases, as well as availabilities and capabilities for use in demand-response approaches	| In Progress
+| Design database and content specifications	| Upcoming
+| Complete database	| Complete
