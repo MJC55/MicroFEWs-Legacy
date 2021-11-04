@@ -89,6 +89,8 @@ We will work with communities to design a framework correlating community FEW se
 
 * [Renewable Energy, Community, and Culture: Tanana, Alaska](tanana_presentation_october2018schmidt.pdf), Presentation in Tanana, October 2018
 
+* [Understanding the Impacts of Renewable Energy and Infrastructure Loads on Food-Energy-Water Security in Remote Arctic Communities](2018-AGU-PPTX-GC52B-07_Wies_UAF_Compressed.pptx),  Presentation at American Geophysical Union, Fall Meeting 2018 
+
 * [Heating Fuel Use Data – first year results](https://youtu.be/fnYiyiL68ZA)
 
 * Hosted kick-off workshop at UAF in April 2018
