@@ -61,7 +61,7 @@ We will work with communities to design a framework correlating community FEW se
 
 <p align="center" text-align="center"><table style="border-collapse: collapse; border: none;">
   <tr width="100%" style="border: none;">
-    <th width="400" style="border: none;"> <embed src="solar_infographic.pdf" width="230px" height="600px" /> <p><a href="Objectives/Objective_1/solar_infographic.pdf">Solar PV Infographic</a> </p>  </th>
+    <th width="400" style="border: none;"> <embed src="solar_infographic.pdf" width="230px" height="600px" /> <p><a href="solar_infographic.pdf">Solar PV Infographic</a> </p>  </th>
     <th width="400" style="border: none;"> <embed src="windturbines_infographic.pdf" width="230px" height="600px" /> <p><a href="Objectives/Objective_1/windturbines_infographic.pdf">Wind Turbine Infographic</a></p>  </th>
     <th width="400" style="border: none;"> <embed src="hydro_infographic.pdf" width="230px" height="600px" /> <p><a href="Objectives/Objective_1/hydro_infographic.pdf">Hydropower Infographic</a></p>  </th>
   </tr>
@@ -70,7 +70,7 @@ We will work with communities to design a framework correlating community FEW se
 
 ### Publications
 
-* [Stoking the Flame: Subsistence and wood energy in rural Alaska, United States](Objectives/Objective_1/schmidt-et-al-2021-biomass-tanana-subsistence.pdf), by Jennifer I. Schmidt, Amanda Byrd, Jennifer Curl, Todd J. Brinkman, Krista Heeringa. Energy Research & Social Science 71 (2021)
+* [Stoking the Flame: Subsistence and wood energy in rural Alaska, United States](schmidt-et-al-2021-biomass-tanana-subsistence.pdf), by Jennifer I. Schmidt, Amanda Byrd, Jennifer Curl, Todd J. Brinkman, Krista Heeringa. Energy Research & Social Science 71 (2021)
 
 * [Food, Energy & Water](microfewsreport_foodenergywater_august2020-2.pdf), Community Report, August 2020
 
