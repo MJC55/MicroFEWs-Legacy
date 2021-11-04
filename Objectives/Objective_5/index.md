@@ -35,7 +35,7 @@ What are the feedbacks between the on-grid infrastructure components described i
 | In the Decision Theater North (DTN), present to the stakeholder advisory board members the scenarios with effects on FEW metrics	| Deferred (COVID) |
 | Hold subsequent meetings to refine scenarios	| Deferred (COVID) |
 | Characterize differences between modeling processes/outcomes at the three communities to address MicroFEWs scalability	| Complete |
-| Share results with the broader scientific community nationally and globally through journals and presentations in technical, trade, and policy forums, and outreach to related organizations	| Uncertain (COVID) |
+| Share results with the broader scientific community nationally and globally through journals and presentations in technical, trade, and policy forums, and outreach to related organizations	| Completed |
 
 ## Highlights
  
