@@ -18,8 +18,7 @@
 # Objective 6: Outreach and Capacity
 
 ## Lead
-Jennifer Schmidt <br/>
-jischmidt0@gmail.com
+[All Team Members](https://mjc55.github.io/MicroFEWs_Legacy/Team)
 
 ## Research Question
 <div style="text-align: justify"> 
