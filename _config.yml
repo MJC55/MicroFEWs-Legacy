@@ -7,6 +7,8 @@ description: Exploring the Nexus between Food, Energy, and Water <br/> <img src=
 github:
   is_project_page: false
   
+sidebars:
+  -sidebar
 
 # Site Author
 author:
