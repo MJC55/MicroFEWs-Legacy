@@ -5,11 +5,11 @@
 
 <p align="center" text-align="center"><table style="border-collapse: collapse; border: none;">
   <tr width="100%" style="border: none;">
-    <th style="border: none;"> <form action="https://mjc55.github.io/MicroFEWs_Legacy/Objectives/Objective_1" align="center"><input type="submit" value="Objective 1" /></form> </th>
-    <th style="border: none;"> <form action="https://mjc55.github.io/MicroFEWs_Legacy/Objectives/Objective_3" align="center"><input type="submit" value="Objective 3" /></form>  </th>
-    <th style="border: none;"> <form action="https://mjc55.github.io/MicroFEWs_Legacy/Objectives/Objective_4" align="center"><input type="submit" value="Objective 4" /></form> </th>
-    <th style="border: none;"> <form action="https://mjc55.github.io/MicroFEWs_Legacy/Objectives/Objective_5" align="center"><input type="submit" value="Objective 5" /></form> </th>
-    <th style="border: none;"> <form action="https://mjc55.github.io/MicroFEWs_Legacy/Objectives/Objective_6" align="center"><input type="submit" value="Objective 6" /></form> </th>
+    <th width="300" style="border: none;"> <form action="https://mjc55.github.io/MicroFEWs_Legacy/Objectives/Objective_1" align="center"><input type="submit" value="Objective 1" /></form> </th>
+    <th width="300" style="border: none;"> <form action="https://mjc55.github.io/MicroFEWs_Legacy/Objectives/Objective_3" align="center"><input type="submit" value="Objective 3" /></form>  </th>
+    <th width="300" style="border: none;"> <form action="https://mjc55.github.io/MicroFEWs_Legacy/Objectives/Objective_4" align="center"><input type="submit" value="Objective 4" /></form> </th>
+    <th width="300" style="border: none;"> <form action="https://mjc55.github.io/MicroFEWs_Legacy/Objectives/Objective_5" align="center"><input type="submit" value="Objective 5" /></form> </th>
+    <th width="300" style="border: none;"> <form action="https://mjc55.github.io/MicroFEWs_Legacy/Objectives/Objective_6" align="center"><input type="submit" value="Objective 6" /></form> </th>
   </tr>
 </table></p>
 
