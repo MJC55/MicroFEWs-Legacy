@@ -89,20 +89,13 @@ We will work with communities to design a framework correlating community FEW se
 
 * [Renewable Energy, Community, and Culture: Tanana, Alaska](tanana_presentation_october2018schmidt.pdf), Presentation in Tanana, October 2018
 
-* Heating Fuel Use Data – first year results
+* [Heating Fuel Use Data – first year results](https://youtu.be/fnYiyiL68ZA)
 
 * Hosted kick-off workshop at UAF in April 2018
 
 * Visits to Kongiganak, Tanana, and Cordova in March 2018
 
 
-### Additional Content
-
-<object data="solar_infographic.pdf" type="application/pdf" width="700px" height="700px">
-    <embed src="solar_infographic.pdf">
-        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="http://yoursite.com/the.pdf">Download PDF</a>.</p>
-    </embed>
-</object>
 
 ### Conceptual Models
 
