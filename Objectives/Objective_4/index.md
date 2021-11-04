@@ -5,11 +5,11 @@
 
 <p align="center" text-align="center"><table style="border-collapse: collapse; border: none;">
   <tr width="100%" style="border: none;">
-    <th width="400" style="border: none;"> <form action="https://mjc55.github.io/MicroFEWs_Legacy/Objectives/Objective_1" align="left"><input type="submit" value="Objective 1" /></form> </th>
+    <th width="400" style="border: none;"> <form action="https://mjc55.github.io/MicroFEWs_Legacy/Objectives/Objective_1" align="center"><input type="submit" value="Objective 1" /></form> </th>
     <th width="400" style="border: none;"> <form action="https://mjc55.github.io/MicroFEWs_Legacy/Objectives/Objective_2" align="center"><input type="submit" value="Objective 2" /></form>  </th>
-    <th width="400" style="border: none;"> <form action="https://mjc55.github.io/MicroFEWs_Legacy/Objectives/Objective_3" align="left"><input type="submit" value="Objective 3" /></form> </th>
-    <th width="400" style="border: none;"> <form action="https://mjc55.github.io/MicroFEWs_Legacy/Objectives/Objective_5" align="left"><input type="submit" value="Objective 5" /></form> </th>
-    <th width="400" style="border: none;"> <form action="https://mjc55.github.io/MicroFEWs_Legacy/Objectives/Objective_6" align="left"><input type="submit" value="Objective 6" /></form> </th>
+    <th width="400" style="border: none;"> <form action="https://mjc55.github.io/MicroFEWs_Legacy/Objectives/Objective_3" align="center"><input type="submit" value="Objective 3" /></form> </th>
+    <th width="400" style="border: none;"> <form action="https://mjc55.github.io/MicroFEWs_Legacy/Objectives/Objective_5" align="center"><input type="submit" value="Objective 5" /></form> </th>
+    <th width="400" style="border: none;"> <form action="https://mjc55.github.io/MicroFEWs_Legacy/Objectives/Objective_6" align="center"><input type="submit" value="Objective 6" /></form> </th>
   </tr>
 </table></p>
 
