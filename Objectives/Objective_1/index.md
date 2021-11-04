@@ -55,8 +55,8 @@ We will work with communities to design a framework correlating community FEW se
 
 ## Highlights
 
-### Publications
 
+### Infographics
 
 
 <p align="center" text-align="center"><table style="border-collapse: collapse; border: none;">
@@ -68,8 +68,22 @@ We will work with communities to design a framework correlating community FEW se
 </table></p>
 
 
+### Publications
 
+["Stoking the flame: Subsistence and wood energy in rural Alaska, United States"](Objectives/Objective_1/schmidt-et-al-2021-biomass-tanana-subsistence.pdf) by Jennifer I. Schmidt, Amanda Byrd, Jennifer Curl, Todd J. Brinkman, Krista Heeringa. Energy Research & Social Science 71 (2021)
 
+["Food, Energy & Water"](microfewsreport_foodenergywater_august2020-2.pdf) Community Report, August 2020
+
+Community Report July 2020: "Renewable Energy"
+"MicroFEWs – A Food-Energy-Water (FEW) Systems Approach to Renewable Energy Decisions in Islanded Microgrid Communities in Rural Alaska" by Whitney E., Aggarwal S., Huang D., Wies R.W., Huntington H.P., Schmidt J.I., Dotson A.D., Karenzi J., Environmental Engineering Science
+Richard Wies talks about MicroFEWs at the 2018 AGU Fall Meeting
+
+Presentation at Alaska Food Policy Council, March 2019: "Planting the Seeds to Examine Food Security Challenges in the Alaska Food-Energy-Water Nexus"
+Literature review of FEW research and the FEW nexus
+Presentation in Tanana: "Renewable Energy, Community, and Culture: Tanana, Alaska," October 2018
+Heating Fuel Use Data – first year results
+Hosted kick-off workshop at UAF in April 2018
+Visits to Kongiganak, Tanana, and Cordova in March 2018
 
 
 ### Additional Content
