@@ -15,7 +15,7 @@
 <div style="text-align: justify">
 "The MicroFEWS project is a unique opportunity to quantify the effects of current and future renewable energy generation on measurable food and water outcomes in Alaska communities.  I'm excited to be working with these communities and to hear their input and feedback on these connections."
 </div>
-<br />
+
 ---
 <p style="text-align:right">
 <img src="Rich_W.jpg" width=150 align="right" style="padding-left: 20px; padding-bottom: 5px;" />
@@ -27,7 +27,7 @@
 <div style="text-align: justify; text-align-last: right"> 
 "Past experiences have shown that proper integration of renewable energy systems in remote Alaska communities is critical for maintaining reliable electricity and heat which translates to reliable food and water systems. Using energy as a lens in this project we hope to better understand and predict how renewable energy would impact food, energy, and water security in these remote communities."
 </div>
-<br />
+
 ---
 <p>
 <img src="Srijan.jpg" width=150 align="left" style="padding-right: 20px; padding-bottom: 5px;" />
@@ -39,9 +39,8 @@
 <div style="text-align: justify">
 "Food, Energy, and Water are inextricably linked and it is about time we look at the system holistically than just trying to tackle the parts. I am excited to explore this uncharted territory with a diverse team of Alaskan community members, researchers, and beyond."
 </div>
-<br />
 
-
+---
 <p style="text-align:right">
 <img src="Daisy.jpg" width=150 align="right" style="padding-left: 20px; padding-bottom: 5px;" />
     <b>Daisy Huang</b> <br> 
@@ -52,9 +51,8 @@
 <div style="text-align: justify; text-align-last: right"> 
 "This is the first team I've ever worked with that has such a diversity of skills and backgrounds. I'm grateful to play a role in helping communities remain healthy, happy, sustainable, and resilient!"
 </div>
-<br />
 
-
+---
 <p>
 <img src="Henry.jpg" width=150 align="left" style="padding-right: 20px; padding-bottom: 5px;" />
     <b>Henry Huntington</b> <br> 
@@ -65,9 +63,8 @@
 <div style="text-align: justify">
 "Rural Alaska residents are adept at innovating. If we can join them in applying those skills to food, energy, and water, then together we can do a lot to improve people's lives around the state and beyond."
 </div>
-<br />
 
-
+---
 <p style="text-align:right">
 <img src="Henry_Penn.jpg" width=150 align="right" style="padding-left: 20px; padding-bottom: 5px;" />
     <b>Henry Penn</b> <br> 
@@ -78,9 +75,8 @@
 <div style="text-align: justify; text-align-last: right"> 
 "This project is working on diverse challenges with an equally diverse group of researchers, scientists, communities, and community members. It offers a wealth of opportunity to develop some truly innovative and important outcomes. I'm very happy to be able to play a role."
 </div>
-<br />
 
-
+---
 <p>
 <img src="Barbara_J.jpg" width=150 align="left" style="padding-right: 20px; padding-bottom: 5px;" />
     <b>Barbara Johnson</b> <br> 
@@ -91,9 +87,8 @@
 <div style="text-align: justify">
 "I am excited to be part of the MicroFEWs project, and work with and learn from a team of people with a fantastic range of expertise and experience, such as tribal government members, city councillorsand academics."
 </div>
-<br />
 
-
+---
 <p style="text-align:right">
 <img src="Chris_P.jpg" width=150 align="right" style="padding-left: 20px; padding-bottom: 5px;" />
     <b>Christopher Pike</b> <br> 
@@ -104,9 +99,8 @@
 <div style="text-align: justify; text-align-last: right"> 
 "Developing a better understanding of the relationship between food, water, and energy consumption is important to develop a more holistic understanding of Alaska's islanded communities."
 </div>
-<br />
 
-
+---
 <p>
 <img src="Dan_Sambor.jpg" width=150 align="left" style="padding-right: 20px; padding-bottom: 5px;" />
     <b>Daniel Sambor</b> <br> 
@@ -117,9 +111,8 @@
 <div style="text-align: justify">
 "Since growing up on a small Midwestern farm, I have been keenly aware of relationships between food, energy, and water systems. The ability to formally study this nexus with an expert team in innovative Alaskan communities is a rewarding experience I am excited to be a part of."
 </div>
-<br />
 
-
+---
 <p style="text-align:right">
 <img src="Jenn_S.jpg" width=150 align="right" style="padding-left: 20px; padding-bottom: 5px;" />
     <b>Jennifer Schmidt</b> <br> 
@@ -130,9 +123,8 @@
 <div style="text-align: justify; text-align-last: right"> 
 "Food, water, and energy are issues that people can relate to and are important. By looking at all three we have the opportunity to study a real life and relatable situation."
 </div>
-<br />
 
-
+---
 <p>
 <img src="Bill_S.jpg" width=150 align="left" style="padding-right: 20px; padding-bottom: 5px;" />
     <b>Bill Schnabel</b> <br> 
@@ -143,9 +135,8 @@
 <div style="text-align: justify">
 "Speaking as somebody who focused on water in school, this idea of looking at food, water, and energy as an integrated system is an exciting concept. I think this approach makes a lot of sense for rural Alaska, and I look forward to hearing what rural Alaska has to say about it."
 </div>
-<br />
 
-
+---
 <p style="text-align:right">
 <img src="Justus.jpg" width=150 align="right" style="padding-left: 20px; padding-bottom: 5px;" />
     <b>Justus Karenzi</b> <br> 
@@ -156,9 +147,8 @@
 <div style="text-align: justify; text-align-last: right"> 
 "Hoping to understand the impacts of renewable energy technologies on the complex interactions within the FEW infrastructure systems in rural Alaska."
 </div>
-<br />
 
-
+---
 
 <p>
 <img src="Michelle_Wilber.jpg" width=150 align="left" style="padding-right: 20px; padding-bottom: 5px;" />
@@ -166,7 +156,8 @@
     Research Engineer, Alaska Center for Energy & Power  <br>
 </p>
 <br />
-<br />
+
+---
 
 
 
@@ -177,7 +168,8 @@
     addotson@alaska.edu <br>
 </p>
 <br />
-<br />
+
+---
 
 
 <p>
