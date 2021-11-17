@@ -18,7 +18,14 @@ This website is an active repository of the various components of the University
 
 
 
-Take me to [pookie](#pookie)
+Take me to [Publications](#Publications) 
+
+# Food-Energy-Water Dynamics
+
+<p align="center">
+<img src="Images/fewschematic.svg" width=800>
+</p>
+
 
 
 
@@ -59,12 +66,6 @@ See our objectives in more detail:
 This is how you dropdown.
 </details>
 
-# Food-Energy-Water Dynamics
-
-<p align="center">
-<img src="Images/fewschematic.svg" width=800>
-</p>
-
 
 # Direct Links
 * Dr. Richard Wies [Interview](https://www.youtube.com/watch?v=gEZQeBnrdHY){:target="_blank" rel="noopener"} about MicroFEWS Hello
@@ -77,8 +78,9 @@ This is how you dropdown.
 Dr. Richard Wies in an interview describing the Food-Energy-Water nexus.
 <br />
 
-<a name="pookie"></a>
 
+
+<a name="Publications"></a>
 # Reports and Publications
 
 | Title  | Report Authors | Comments  |
@@ -106,7 +108,9 @@ Dr. Richard Wies in an interview describing the Food-Energy-Water nexus.
 
 
 
-<p align="center" style="font-size:60%;">
+<p align="center" style="font-size:70%;">
   This project is funded by the National Science Foundation Award #1740075 InFEWS/T3: Coupling infrastructure improvements to food-energy-water system dynamics in small cold   region communities: MicroFEWs.
   <br>
-  Project Leads: William Schnabel (University of Alaska Fairbanks), Erin Whitney (University of Alaska Fairbanks), Daisy Huang (University of Alaska Fairbanks), Jen Schmidt (University of Alaska Anchorage), Rich Wies (University of Alaska Fairbanks)</p>
+  Project Leads: 
+   <br>
+  P.I.: Erin Whitney (University of Alaska Fairbanks); Co-P.I.s: Daisy Huang (University of Alaska Fairbanks), Jen Schmidt (University of Alaska Anchorage), Rich Wies (University of Alaska Fairbanks), Srijan Aggarwal (University of Alaska Fairbanks) </p>
