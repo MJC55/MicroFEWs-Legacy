@@ -7,7 +7,7 @@
 <p align="center">
 <iframe width="730" height="410" src="https://www.youtube.com/embed/gEZQeBnrdHY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </p>
-Dr. Richard Wies in an interview describing the Food-Energy-Water nexus.
+Dr. Richard Wies in an interview at the AGU 2018 Conference describing the Food-Energy-Water nexus.
 <br />
 
 
@@ -29,7 +29,7 @@ Our Research in a Nutshell.
 <p align="center">
 <iframe width="730" height="410" src="https://www.youtube.com/embed/Fsojia8_h3M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </p>
-Dr. Richard Wies in an interview describing the Food-Energy-Water nexus.
+Tanana
 <br />
 
 
@@ -37,19 +37,19 @@ Dr. Richard Wies in an interview describing the Food-Energy-Water nexus.
 <p align="center">
 <iframe width="730" height="410" src="https://www.youtube.com/embed/hhOpyZcuCyk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </p>
-Dr. Richard Wies in an interview describing the Food-Energy-Water nexus.
+Cordova
 <br />
 
 <br />
 <p align="center">
 <iframe width="730" height="410" src="https://www.youtube.com/embed/oHKIsZjXMUM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </p>
-Dr. Richard Wies in an interview describing the Food-Energy-Water nexus.
+Biomass Tanana
 <br />
 
 <br />
 <p align="center">
 <iframe width="730" height="410" src="https://www.youtube.com/embed/90n9ga3SOQQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </p>
-Dr. Richard Wies in an interview describing the Food-Energy-Water nexus.
+Kongiganak success story of escess renewable energy used for household heating demands.
 <br />
