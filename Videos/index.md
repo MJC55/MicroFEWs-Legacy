@@ -42,7 +42,7 @@ Food, Energy, and Water Connections in Tanana, Alaska.
 
 
 <br />
-Food, Energy, and Water Connections in Tanana, Alaska.
+Food, Energy, and Water Connections in Cordova, Alaska.
 <p align="center">
 <iframe width="730" height="410" src="https://www.youtube.com/embed/hhOpyZcuCyk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </p>
