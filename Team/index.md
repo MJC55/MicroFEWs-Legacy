@@ -26,7 +26,6 @@
     rwwiesjr@alaska.edu <br> 
     Project components: Energy Distribution Models (Objective 4) <br>
 </p>
-<br />
 <div style="text-align: justify; text-align-last: right"> 
 "Past experiences have shown that proper integration of renewable energy systems in remote Alaska communities is critical for maintaining reliable electricity and heat which translates to reliable food and water systems. Using energy as a lens in this project we hope to better understand and predict how renewable energy would impact food, energy, and water security in these remote communities."
 </div>
@@ -40,7 +39,6 @@
     saggarwal@alaska.edu <br> 
     Project components: Modular Systems (Objective 3) <br> 
 </p>
-<br />
 <div style="text-align: justify">
 "Food, Energy, and Water are inextricably linked and it is about time we look at the system holistically than just trying to tackle the parts. I am excited to explore this uncharted territory with a diverse team of Alaskan community members, researchers, and beyond."
 </div>
@@ -54,7 +52,6 @@
     dhuang@alaska.edu <br> 
     Project components: Community Data and Synthesis (Objectives 2 and 5) <br> 
 </p>
-<br />
 <div style="text-align: justify; text-align-last: right"> 
 "This is the first team I've ever worked with that has such a diversity of skills and backgrounds. I'm grateful to play a role in helping communities remain healthy, happy, sustainable, and resilient!"
 </div>
@@ -80,7 +77,6 @@
     henry.penn@ucalgary.ca <br> 
     Project components: Modular Systems (Objective 3) <br> 
 </p>
-<br />
 <div style="text-align: justify; text-align-last: right"> 
 "This project is working on diverse challenges with an equally diverse group of researchers, scientists, communities, and community members. It offers a wealth of opportunity to develop some truly innovative and important outcomes. I'm very happy to be able to play a role."
 </div>
@@ -128,12 +124,11 @@
 <p style="text-align:right">
 <img src="Jenn_S.jpg" width=150 align="right" style="padding-left: 20px; padding-bottom: 5px;" />
     <b>Jennifer Schmidt</b> <br> 
-    Co-Principal Investigator (co-PI) <br>
-    University of Alaska Anchorage <br>
+    Co-Principal Investigator (co-PI), University of Alaska Anchorage <br>
     jischmidt0@gmail.com <br> 
     Project components: FEW Framework, Community Data, and Synthesis (Objectives 1, 2, and 5) <br> 
 </p>
-<br />
+
 <div style="text-align: justify; text-align-last: right"> 
 "Food, water, and energy are issues that people can relate to and are important. By looking at all three we have the opportunity to study a real life and relatable situation."
 </div>
@@ -186,19 +181,20 @@
     addotson@alaska.edu <br>
     Project components: Modular Systems (Objective 3) <br> 
 </p>
+<br />
 
 ---
 
 
-<p style="text-align:right">
+<p style="text-align:left">
 <img src="MJC.PNG" width=150 align="right" style="padding-left: 20px; padding-bottom: 5px;" />
     <b>Michele Chamberlin</b> <br> 
     University of Alaska Fairbanks, Alaska Center for Energy and Power <br>
     mjchamberlin2@alaska.edu <br>
-    Project components: Modular Systems (Objective 3) <br> 
+    Project components: Community Data and Energy Distribution Models (Objectives 2 and 4) <br> 
 </p>
 
-
+<br />
 ---
 
 
@@ -214,7 +210,7 @@
 ---
 
 
-<p style="text-align:right">
+<p style="text-align:left">
 
     <b>Grace Bolt</b> <br> 
     University of Alaska Fairbanks, Alaska Center for Energy and Power <br>
