@@ -9,11 +9,13 @@ This website is an active repository of the various components of the University
 <p align="center" text-align="center">
 <table style="border-collapse: collapse; border: none;">
   <tr  style="border: none;">
-    <td width="100" style="border: none;"> <form action="https://mjc55.github.io/MicroFEWs_Legacy/Team/" align="center"><input type="submit" value="Meet the Team!" /></form> </td>
-    <td width="100" style="border: none;"> <form action="https://mjc55.github.io/MicroFEWs_Legacy/Communities/?" align="center"><input type="submit" value="Communities" /></form></td>
-    <td width="100" style="border: none;"> <form action="https://mjc55.github.io/MicroFEWs_Legacy/Team/" align="center"><input type="submit" value="Other Button" /></form></td>
-    <td width="100" style="border: none;"> <form action="https://mjc55.github.io/MicroFEWs_Legacy/Communities/?" align="center"><input type="submit" value="Videos" /></form>  </td>
-    <td width="100" style="border: none;"> <form action="#Publications" align="center"><input type="submit" value="Publications" /></form></td>
+    
+    <td width="200" style="border: none;"> <form action="https://mjc55.github.io/MicroFEWs_Legacy/Team/" align="center"><input type="submit" value="Meet the Team!" /></form> </td>
+    <td width="200" style="border: none;"> <form action="https://mjc55.github.io/MicroFEWs_Legacy/Communities/?" align="center"><input type="submit" value="Communities" /></form></td>
+    <td width="200" style="border: none;"> <form action="https://mjc55.github.io/MicroFEWs_Legacy/Team/" align="center"><input type="submit" value="Other Button" /></form></td>
+    <td width="200" style="border: none;"> <form action="https://mjc55.github.io/MicroFEWs_Legacy/Communities/?" align="center"><input type="submit" value="Videos" /></form>  </td>
+    <td width="200" style="border: none;"> <form action="#Publications" align="center"><input type="submit" value="Publications" /></form></td>
+    
   </tr>
 </table>
 </p>
