@@ -39,5 +39,9 @@ What are the feedbacks between the on-grid infrastructure components described i
 
 ## Highlights
  
+*  [Applying the food–energy–water nexus concept at the local scale](https://doi.org/10.1038/s41893-021-00719-1), Huntington, H.P., Schmidt, J.I., Loring, P.A. et al. Nat Sustain (2021)
+* Presentation: [Getting out of our comfort zones: understanding the food-energy-water (FEW) nexus in remote Alaska communities](agu19_infews_presentation_schmidt.pdf), at American Geophysical Union Fall Meeting, December 2019
+ 
+ 
 <div style="text-align: justify"> 
 </div>
