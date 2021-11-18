@@ -79,6 +79,8 @@ We will work with communities to design a framework correlating community FEW se
 * [MicroFEWs – A Food-Energy-Water (FEW) Systems Approach to Renewable Energy Decisions in Islanded Microgrid Communities in Rural Alaska](https://www.liebertpub.com/doi/10.1089/ees.2019.0055){:target="_blank" rel="noopener"} , by Whitney E., Aggarwal S., Huang D., Wies R.W., Huntington H.P., Schmidt J.I., Dotson A.D., Karenzi J., Environmental Engineering Science, July 2019
 
 * Dr. Richard Wies talks about MicroFEWs at the 2018 AGU Fall Meeting
+
+
   <p align="center">
   <iframe width="400" height="200" src="https://www.youtube.com/embed/gEZQeBnrdHY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
   </p>
