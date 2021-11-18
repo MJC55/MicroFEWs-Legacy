@@ -46,7 +46,8 @@ The goal of this objective is to communicate project results in a way that not o
 
 ## Highlights
 
-* Presentation at 2019 Alaska Tribal Conference on Environmental Management (ATCEM) in Anchorage, November 2019: [How Do Existing and Potential Renewable Energy Projects Affect Food, Energy, and Water Security in Rural Alaska?](microfews_atcem_presentation_nov_21_2019_ewjs20191120.pdf) | [Results from survey](atcem_summary-of-feedback_nov-21-2019.pdf)
+* Presentation at 2019 Alaska Tribal Conference on Environmental Management (ATCEM) in Anchorage, November 2019: [How Do Existing and Potential Renewable Energy Projects Affect Food, Energy, and Water Security in Rural Alaska?](microfews_atcem_presentation_nov_21_2019_ewjs20191120.pdf)  
+* [Results from Community Survey](atcem_summary-of-feedback_nov-21-2019.pdf)
 * [Science Q&A with the MicroFEWS team at 2019 AGU Fall meeting: Food, energy and water systems](https://www.youtube.com/watch?v=Qy6gHUUuM8U)
 * Presentation: [Planting the Seeds to Examine Food Security Challenges in the Alaska Food-Energy-Water Nexus](afpc_final_03072019.pdf), at Alaska Food Policy Council, March 2019
 
