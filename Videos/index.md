@@ -15,7 +15,7 @@ Dr. Richard Wies in an interview at the AGU 2018 Conference describing the Food-
 
 
 <br />
-Our team describing our research project "in a nutshell".
+Our team describing our research project "In a Nutshell".
 <p align="center">
 <iframe width="730" height="410" src="https://www.youtube.com/embed/cpCjL55kW5E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </p>
