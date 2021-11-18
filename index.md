@@ -90,7 +90,7 @@ This is how you dropdown.
 # Reports and Publications
 
 ## Peer-reviewed
-|Title   |Report Authors  | 
+| Title   | Report Authors  | 
 | ---  | ---  | 
 |  <img width=200/>  |  <img width=500/>  | 
 | [Energy Distribution Modeling for Assessment and Optimal Distribution of Sustainable Energy for On-Grid Food, Energy, and Water Systems in Remote Microgrids](https://www.mdpi.com/2071-1050/13/17/9511){:target="_blank" rel="noopener"} |    [Erin Whitney](https://sciprofiles.com/profile/1462587){:target="_blank" rel="noopener"} <br /> [Richard Wies](https://news.uaf.edu/expertsguide/rich-wies/){:target="_blank" rel="noopener"} <br /> [Dan Sambor](){:target="_blank" rel="noopener"} <br /> [Michele Chamberlin](https://www.linkedin.com/in/michele-chamberlin-19a644146/){:target="_blank" rel="noopener"} | 
