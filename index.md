@@ -83,12 +83,7 @@ This is how you dropdown.
 * Dr. Richard Wies [Interview](https://www.youtube.com/watch?v=gEZQeBnrdHY){:target="_blank" rel="noopener"} about MicroFEWS Hello
 * Infographics created for [solar photovoltaics](Files/solar_infographic.pdf){:target="_blank" rel="noopener"}, [hydro-electric](Files/hydro_infographic.pdf){:target="_blank" rel="noopener"}, and [wind](Files/windturbines_infographic.pdf){:target="_blank" rel="noopener"} energy
 
-<br />
-<p align="center">
-<iframe width="560" height="320" src="https://www.youtube.com/embed/gEZQeBnrdHY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</p>
-Dr. Richard Wies in an interview describing the Food-Energy-Water nexus.
-<br />
+
 
 
 
@@ -104,6 +99,8 @@ Dr. Richard Wies in an interview describing the Food-Energy-Water nexus.
 |[Applying the food-energy-water nexus concept at a local scale](Publications/Huntington paper final published.pdf){:target="_blank" rel="noopener"} |   [Henry Huntington](https://orcid.org/0000-0003-2308-8677){:target="_blank" rel="noopener"} <br /> [Jennifer Schmidt](){:target="_blank" rel="noopener"} <br /> [Philip Loring](https://orcid.org/0000-0001-6039-2331){:target="_blank" rel="noopener"} <br />  [Erin Whitney](https://sciprofiles.com/profile/1462587){:target="_blank" rel="noopener"} <br /> [Srijan Aggarwal](https://orcid.org/0000-0002-9141-9936){:target="_blank" rel="noopener"} <br />  [et al.](Publications/Huntington paper final published.pdf){:target="_blank" rel="noopener"} |
 |[A Tale of Two Communities: Adopting and Paying for an In-Home Non-Potable Water Reuse System in Rural Alaska](Publications/Lucas et al_PDF_A.pdf){:target="_blank" rel="noopener"} |   [Cara Lucas](){:target="_blank" rel="noopener"} <br /> [Barbara Johnson](){:target="_blank" rel="noopener"} <br /> [Elizabeth Hodges Snyder](){:target="_blank" rel="noopener"} <br />  [Srijan Aggarwal](https://orcid.org/0000-0002-9141-9936){:target="_blank" rel="noopener"} <br />  [Aaron Dotson](){:target="_blank" rel="noopener"} |
 |[Stoking the flame: Subsistence and wood energy in rural Alaska, United States](Publications/Schmidt Biomass Paper_PDF_A.pdf){:target="_blank" rel="noopener"} |   [Jennifer Schmidt](){:target="_blank" rel="noopener"}  <br /> [Amanda Byrd](){:target="_blank" rel="noopener"} <br /> [Jennifer Curl](){:target="_blank" rel="noopener"} <br /> [Todd J. Brinkman](){:target="_blank" rel="noopener"} <br />  [Krista Heeringa](){:target="_blank" rel="noopener"}| 
+
+# Abstracts and Presentations
 
 <a name="Data"></a>
 # Data
