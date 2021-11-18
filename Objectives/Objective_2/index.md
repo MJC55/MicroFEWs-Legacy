@@ -5,11 +5,11 @@
 
 <p align="center" text-align="center"><table style="border-collapse: collapse; border: none;">
   <tr width="100%" style="border: none;">
-    <th width="300" style="border: none;"> <form action="https://mjc55.github.io/MicroFEWs_Legacy/Objectives/Objective_1" align="center"><input type="submit" value="Objective 1" /></form> </th>
-    <th width="300" style="border: none;"> <form action="https://mjc55.github.io/MicroFEWs_Legacy/Objectives/Objective_3" align="center"><input type="submit" value="Objective 3" /></form>  </th>
-    <th width="300" style="border: none;"> <form action="https://mjc55.github.io/MicroFEWs_Legacy/Objectives/Objective_4" align="center"><input type="submit" value="Objective 4" /></form> </th>
-    <th width="300" style="border: none;"> <form action="https://mjc55.github.io/MicroFEWs_Legacy/Objectives/Objective_5" align="center"><input type="submit" value="Objective 5" /></form> </th>
-    <th width="300" style="border: none;"> <form action="https://mjc55.github.io/MicroFEWs_Legacy/Objectives/Objective_6" align="center"><input type="submit" value="Objective 6" /></form> </th>
+    <td width="300" style="border: none;"> <form action="https://mjc55.github.io/MicroFEWs_Legacy/Objectives/Objective_1" align="center"><input type="submit" value="Objective 1" /></form> </td>
+    <td width="300" style="border: none;"> <form action="https://mjc55.github.io/MicroFEWs_Legacy/Objectives/Objective_3" align="center"><input type="submit" value="Objective 3" /></form>  </td>
+    <td width="300" style="border: none;"> <form action="https://mjc55.github.io/MicroFEWs_Legacy/Objectives/Objective_4" align="center"><input type="submit" value="Objective 4" /></form> </td>
+    <td width="300" style="border: none;"> <form action="https://mjc55.github.io/MicroFEWs_Legacy/Objectives/Objective_5" align="center"><input type="submit" value="Objective 5" /></form> </td>
+    <td width="300" style="border: none;"> <form action="https://mjc55.github.io/MicroFEWs_Legacy/Objectives/Objective_6" align="center"><input type="submit" value="Objective 6" /></form> </td>
   </tr>
 </table></p>
 
@@ -53,7 +53,7 @@ We will work with communities to design a framework correlating community FEW se
 
 
 * Presentation to [Tanana Community on Heat Meter Data](tanana_first-year-data-review_nov2019.pdf){:target="_blank" rel="noopener"}, Fall 2019
-* Poster presented at American Geophysical Union Fall Meeting, December 2019: [The Challenges of Food-Energy-Water Data Collection in Remote Islanded Microgrids: Lessons Learned and Recommendations Moving Forward](agu19_dhuang.pdf){:target="_blank" rel="noopener"}
+* Poster: [The Challenges of Food-Energy-Water Data Collection in Remote Islanded Microgrids: Lessons Learned and Recommendations Moving Forward](agu19_dhuang.pdf){:target="_blank" rel="noopener"}, presented at American Geophysical Union Fall Meeting, December 2019
 
 
 
