@@ -30,7 +30,7 @@ The "MicroFEWS" project explores and models optimization of renewable energy uti
 
 
 
-Take me to [Publications](#Publications) 
+
 
 # Food-Energy-Water Dynamics
 
@@ -55,7 +55,6 @@ Take me to [Publications](#Publications)
 5. Synthesize MicroFEWs Model
 6. Conduct Outreach and Develop Capacity
 
-Buttons in Progress
 See our objectives in more detail:
 
 <p align="center" text-align="center">
