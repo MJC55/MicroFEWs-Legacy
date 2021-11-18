@@ -193,11 +193,9 @@
     mjchamberlin2@alaska.edu <br>
     Project components: Community Data and Energy Distribution Models (Objectives 2 and 4) <br> 
 </p>
-
 <br />
+
 ---
-
-
 
 <p style="text-align:right">
     <b>Murad Rashedin</b> <br> 
@@ -208,7 +206,6 @@
 
 ---
 
-
 <p style="text-align:left">
     <b>Grace Bolt</b> <br> 
     University of Alaska Fairbanks, Alaska Center for Energy and Power <br>
@@ -217,7 +214,6 @@
 </p>
 
 ---
-
 
 <p style="text-align:right">
     <b>Chong Her</b> <br> 
