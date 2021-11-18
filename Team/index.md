@@ -187,7 +187,7 @@
 
 
 <p style="text-align:left">
-<img src="MJC.PNG" width=150 align="right" style="padding-left: 20px; padding-bottom: 5px;" />
+<img src="MJC.PNG" width=150 align="left" style="padding-right: 20px; padding-bottom: 5px;" />
     <b>Michele Chamberlin</b> <br> 
     University of Alaska Fairbanks, Alaska Center for Energy and Power <br>
     mjchamberlin2@alaska.edu <br>
