@@ -48,3 +48,12 @@ We will work with communities to design a framework correlating community FEW se
 | Describe current states of technologies, performance parameters and use cases, as well as availabilities and capabilities for use in demand-response approaches	| In&nbsp;Progress |
 | Design database and content specifications	| In&nbsp;Progress |
 | Complete database	| In&nbsp;Progress |
+
+## Highlights
+
+
+* Presentation to [Tanana Community on Heat Meter Data](tanana_first-year-data-review_nov2019.pdf), Fall 2019
+* Poster presented at American Geophysical Union Fall Meeting, December 2019: [The Challenges of Food-Energy-Water Data Collection in Remote Islanded Microgrids: Lessons Learned and Recommendations Moving Forward](agu19_dhuang.pdf)
+
+
+
