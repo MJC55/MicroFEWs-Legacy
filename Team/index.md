@@ -154,7 +154,6 @@
     Project components: Modular Systems and Energy Distribution Models (Objectives 3 and 4) <br> 
 </p>
 <br />
-<br />
 <div style="text-align: justify; text-align-last: right"> 
 "Hoping to understand the impacts of renewable energy technologies on the complex interactions within the FEW infrastructure systems in rural Alaska."
 </div>
