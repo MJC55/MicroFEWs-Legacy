@@ -5,11 +5,11 @@
 
 <p align="center" text-align="center"><table style="border-collapse: collapse; border: none;">
   <tr width="100%" style="border: none;">
-    <th width="400" style="border: none;"> <form action="https://mjc55.github.io/MicroFEWs_Legacy/Objectives/Objective_1" align="center"><input type="submit" value="Objective 1" /></form> </th>
-    <th width="400" style="border: none;"> <form action="https://mjc55.github.io/MicroFEWs_Legacy/Objectives/Objective_2" align="center"><input type="submit" value="Objective 2" /></form>  </th>
-    <th width="400" style="border: none;"> <form action="https://mjc55.github.io/MicroFEWs_Legacy/Objectives/Objective_3" align="center"><input type="submit" value="Objective 3" /></form> </th>
-    <th width="400" style="border: none;"> <form action="https://mjc55.github.io/MicroFEWs_Legacy/Objectives/Objective_4" align="center"><input type="submit" value="Objective 4" /></form> </th>
-    <th width="400" style="border: none;"> <form action="https://mjc55.github.io/MicroFEWs_Legacy/Objectives/Objective_6" align="center"><input type="submit" value="Objective 6" /></form> </th>
+    <td width="400" style="border: none;"> <form action="https://mjc55.github.io/MicroFEWs_Legacy/Objectives/Objective_1" align="center"><input type="submit" value="Objective 1" /></form> </td>
+    <td width="400" style="border: none;"> <form action="https://mjc55.github.io/MicroFEWs_Legacy/Objectives/Objective_2" align="center"><input type="submit" value="Objective 2" /></form>  </td>
+    <td width="400" style="border: none;"> <form action="https://mjc55.github.io/MicroFEWs_Legacy/Objectives/Objective_3" align="center"><input type="submit" value="Objective 3" /></form> </td>
+    <td width="400" style="border: none;"> <form action="https://mjc55.github.io/MicroFEWs_Legacy/Objectives/Objective_4" align="center"><input type="submit" value="Objective 4" /></form> </td>
+    <td width="400" style="border: none;"> <form action="https://mjc55.github.io/MicroFEWs_Legacy/Objectives/Objective_6" align="center"><input type="submit" value="Objective 6" /></form> </td>
   </tr>
 </table></p>
 
@@ -39,8 +39,8 @@ What are the feedbacks between the on-grid infrastructure components described i
 
 ## Highlights
  
-*  [Applying the food–energy–water nexus concept at the local scale](https://doi.org/10.1038/s41893-021-00719-1), Huntington, H.P., Schmidt, J.I., Loring, P.A. et al. Nat Sustain (2021)
-* Presentation: [Getting out of our comfort zones: understanding the food-energy-water (FEW) nexus in remote Alaska communities](agu19_infews_presentation_schmidt.pdf), at American Geophysical Union Fall Meeting, December 2019
+*  [Applying the food–energy–water nexus concept at the local scale](https://doi.org/10.1038/s41893-021-00719-1){:target="_blank" rel="noopener"}, Huntington, H.P., Schmidt, J.I., Loring, P.A. et al. Nat Sustain (2021)
+* Presentation: [Getting out of our comfort zones: understanding the food-energy-water (FEW) nexus in remote Alaska communities](agu19_infews_presentation_schmidt.pdf){:target="_blank" rel="noopener"}, at American Geophysical Union Fall Meeting, December 2019
  
  
 <div style="text-align: justify"> 
