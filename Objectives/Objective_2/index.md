@@ -52,8 +52,8 @@ We will work with communities to design a framework correlating community FEW se
 ## Highlights
 
 
-* Presentation to [Tanana Community on Heat Meter Data](tanana_first-year-data-review_nov2019.pdf), Fall 2019
-* Poster presented at American Geophysical Union Fall Meeting, December 2019: [The Challenges of Food-Energy-Water Data Collection in Remote Islanded Microgrids: Lessons Learned and Recommendations Moving Forward](agu19_dhuang.pdf)
+* Presentation to [Tanana Community on Heat Meter Data](tanana_first-year-data-review_nov2019.pdf){:target="_blank" rel="noopener"}, Fall 2019
+* Poster presented at American Geophysical Union Fall Meeting, December 2019: [The Challenges of Food-Energy-Water Data Collection in Remote Islanded Microgrids: Lessons Learned and Recommendations Moving Forward](agu19_dhuang.pdf){:target="_blank" rel="noopener"}
 
 
 
