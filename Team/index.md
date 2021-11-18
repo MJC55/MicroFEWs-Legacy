@@ -191,7 +191,7 @@
 
 
 <p style="text-align:right">
-<img src="MJC.png" width=150 align="right" style="padding-left: 20px; padding-bottom: 5px;" />
+<img src="MJC.PNG" width=150 align="right" style="padding-left: 20px; padding-bottom: 5px;" />
     <b>Michele Chamberlin</b> <br> 
     University of Alaska Fairbanks, Alaska Center for Energy and Power <br>
     mjchamberlin2@alaska.edu <br>
@@ -204,7 +204,7 @@
 
 
 <p style="text-align:right">
-<img src="Aaron_Dotson.jpg" width=150 align="right" style="padding-left: 20px; padding-bottom: 5px;" />
+
     <b>Murad Rashedin</b> <br> 
     University of Alaska Anchorage, Interim Vice Provost for Research & Director, Applied Environmental Research Center <br>
     mrashedin@alaska.edu <br>
@@ -215,7 +215,7 @@
 
 
 <p style="text-align:right">
-<img src="Aaron_Dotson.jpg" width=150 align="right" style="padding-left: 20px; padding-bottom: 5px;" />
+
     <b>Grace Bolt</b> <br> 
     University of Alaska Fairbanks, Alaska Center for Energy and Power <br>
     gbolt@alaska.edu <br>
@@ -226,7 +226,7 @@
 
 
 <p style="text-align:right">
-<img src="Aaron_Dotson.jpg" width=150 align="right" style="padding-left: 20px; padding-bottom: 5px;" />
+
     <b>Chong Her</b> <br> 
     University of Alaska Fairbanks, Alaska Center for Energy and Power <br>
     cher6@alaska.edu <br>
