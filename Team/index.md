@@ -77,6 +77,7 @@
     henry.penn@ucalgary.ca <br> 
     Project components: Modular Systems (Objective 3) <br> 
 </p>
+<br />
 <div style="text-align: justify; text-align-last: right"> 
 "This project is working on diverse challenges with an equally diverse group of researchers, scientists, communities, and community members. It offers a wealth of opportunity to develop some truly innovative and important outcomes. I'm very happy to be able to play a role."
 </div>
