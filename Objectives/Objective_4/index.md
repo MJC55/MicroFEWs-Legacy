@@ -46,7 +46,7 @@ test these control strategies in a full-scale microgrid laboratory.
 
 ## Highlights
 
-* Poster [Use of limited data to inform renewable energy installation model scenarios for food, energy, and water systems in remote Alaska communities](agu19_few_cord_poster_kar_wies.pdf), presented at American Geophysical Union Fall Meeting, December 2019 
-* [MicroFEWs – A Food-Energy-Water (FEW) Systems Approach to Renewable Energy Decisions in Islanded Microgrid Communities in Rural Alaska](https://www.liebertpub.com/doi/10.1089/ees.2019.0055) by Whitney E., Aggarwal S., Huang D., Wies R.W., Huntington H.P., Schmidt J.I., Dotson A.D., Karenzi J., Environmental Engineering Science
-* Presentation: [Planting the Seeds to Examine Food Security Challenges in the Alaska Food-Energy-Water Nexus](afpc_final_03072019.pdf), at Alaska Food Policy Council, March 2019
+* Poster [Use of limited data to inform renewable energy installation model scenarios for food, energy, and water systems in remote Alaska communities](agu19_few_cord_poster_kar_wies.pdf){:target="_blank" rel="noopener"}, presented at American Geophysical Union Fall Meeting, December 2019 
+* [MicroFEWs – A Food-Energy-Water (FEW) Systems Approach to Renewable Energy Decisions in Islanded Microgrid Communities in Rural Alaska](https://www.liebertpub.com/doi/10.1089/ees.2019.0055){:target="_blank" rel="noopener"} by Whitney E., Aggarwal S., Huang D., Wies R.W., Huntington H.P., Schmidt J.I., Dotson A.D., Karenzi J., Environmental Engineering Science
+* Presentation: [Planting the Seeds to Examine Food Security Challenges in the Alaska Food-Energy-Water Nexus](afpc_final_03072019.pdf){:target="_blank" rel="noopener"}, at Alaska Food Policy Council, March 2019
 
