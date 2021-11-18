@@ -164,7 +164,7 @@
 <p>
 <img src="Michelle_Wilber.jpg" width=150 align="left" style="padding-right: 20px; padding-bottom: 5px;" />
     <b>Michelle Wilber</b> <br> 
-    Research Engineer, Alaska Center for Energy & Power  <br>
+    Research Engineer, Alaska Center for Energy and Power  <br>
     Project components: Community Data and Modular Systems (Objective 2 and 3) <br> 
 </p>
 <br />
