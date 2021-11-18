@@ -18,9 +18,9 @@ The "MicroFEWS" project explores and models optimization of renewable energy uti
 <table style="border-collapse: collapse; border: none;">
   <tr  style="border: none;">
     
-    <td width="200" style="border: none;"> <form action="https://mjc55.github.io/MicroFEWs_Legacy/Team/" align="center"><input type="submit" value="Meet the Team!" /></form> </td>
-    <td width="200" style="border: none;"> <form action="https://mjc55.github.io/MicroFEWs_Legacy/Communities/?" align="center"><input type="submit" value="Communities" /></form></td>
-    <td width="200" style="border: none;"> <form action="https://mjc55.github.io/MicroFEWs_Legacy/Videos/?" align="center"><input type="submit" value="Videos" /></form>  </td>   
+    <td width="200" style="border: none;"> <form action="https://acep-uaf.github.io/MicroFEWs_Legacy/Team/" align="center"><input type="submit" value="Meet the Team!" /></form> </td>
+    <td width="200" style="border: none;"> <form action="https://acep-uaf.github.io/MicroFEWs_Legacy/Communities/?" align="center"><input type="submit" value="Communities" /></form></td>
+    <td width="200" style="border: none;"> <form action="https://acep-uaf.github.io/MicroFEWs_Legacy/Videos/?" align="center"><input type="submit" value="Videos" /></form>  </td>   
     <td width="200" style="border: none;"> <form action="#Publications" align="center"><input type="submit" value="Publications" /></form></td>
     <td width="200" style="border: none;"> <form action="#Data" align="center"><input type="submit" value="Data" /></form></td>
     
