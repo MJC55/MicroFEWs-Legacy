@@ -200,7 +200,6 @@
 
 
 <p style="text-align:right">
-
     <b>Murad Rashedin</b> <br> 
     University of Alaska Anchorage, Interim Vice Provost for Research & Director, Applied Environmental Research Center <br>
     mrashedin@alaska.edu <br>
@@ -211,7 +210,6 @@
 
 
 <p style="text-align:left">
-
     <b>Grace Bolt</b> <br> 
     University of Alaska Fairbanks, Alaska Center for Energy and Power <br>
     gbolt@alaska.edu <br>
@@ -222,7 +220,6 @@
 
 
 <p style="text-align:right">
-
     <b>Chong Her</b> <br> 
     University of Alaska Fairbanks, Alaska Center for Energy and Power <br>
     cher6@alaska.edu <br>
