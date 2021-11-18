@@ -52,3 +52,9 @@ technologies into the modelling process.
 | Investigate modifications to the UAA water reuse system necessary for operation as dispatchable load	| Completed |
 | Evaluate function and productivity of CropBox system under the three energy system scenarios	| Completed |
 | Add performance characterization data to database developed in Objective 2	| In&nbsp;Progress |
+
+
+# Highlights
+
+* [Western Canada’s first off-grid food production facility to provide fresh produce to Yukon community all year-round: Arctic Institute of North America (AINA) testing options for sustainable food security in south-west Yukon](nr_aina_food-production.pdf){:target="_blank" rel="noopener"}
+* [Tool for Optimizing Solar and Battery Storage for Container Farming in a Remote Arctic Microgrid](solar_battery_storage_container_farming_in_remote_arctic_microgrid.pdf){:target="_blank" rel="noopener"}, Daniel J. Sambor, Michelle Wilber, Erin Whitney, Mark Z. Jacobson.  Energies 2020, 13(19), [DOI](https://doi.org/10.3390/en13195143){:target="_blank" rel="noopener"}.  
