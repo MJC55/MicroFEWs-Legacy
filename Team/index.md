@@ -8,6 +8,7 @@
 <p>
 <img src="Erin_Whitney.jpg" width=150 align="left" style="padding-right: 20px; padding-bottom: 5px;" />
     <b>Erin Whitney</b> <br> 
+    Principal Investigator (PI) <br>
     Alaska Center for Energy and Power  <br>
     erin.whitney@alaska.edu <br> 
 </p>
@@ -20,8 +21,10 @@
 <p style="text-align:right">
 <img src="Rich_W.jpg" width=150 align="right" style="padding-left: 20px; padding-bottom: 5px;" />
     <b>Richard Wies</b> <br> 
+    Co-Principal Investigator (co-PI) <br>
     University of Alaska Fairbanks <br>
     rwwiesjr@alaska.edu <br> 
+    Project components: Energy Distribution Models (Objective 4) <br>
 </p>
 <br />
 <div style="text-align: justify; text-align-last: right"> 
@@ -32,8 +35,10 @@
 <p>
 <img src="Srijan.jpg" width=150 align="left" style="padding-right: 20px; padding-bottom: 5px;" />
     <b>Srijan Aggarwal</b> <br> 
+    Co-Principal Investigator (co-PI) <br>
     University of Alaska Fairbanks, College of Engineering and Mines <br>
     saggarwal@alaska.edu <br> 
+    Project components: Modular Systems (Objective 3) <br> 
 </p>
 <br />
 <div style="text-align: justify">
@@ -44,8 +49,10 @@
 <p style="text-align:right">
 <img src="Daisy.jpg" width=150 align="right" style="padding-left: 20px; padding-bottom: 5px;" />
     <b>Daisy Huang</b> <br> 
+    Co-Principal Investigator (co-PI) <br>
     Alaska Center for Energy and Power  <br>
     dhuang@alaska.edu <br> 
+    Project components: Community Data and Synthesis (Objectives 2 and 5) <br> 
 </p>
 <br />
 <div style="text-align: justify; text-align-last: right"> 
@@ -58,6 +65,7 @@
     <b>Henry Huntington</b> <br> 
     Huntington Consulting, Eagle River, Alaska <br>
     shenryphuntington@gmail.com  <br> 
+    Project components: FEW Framework and Synthesis (Objectives 1 and 5) <br> 
 </p>
 <br />
 <div style="text-align: justify">
@@ -67,9 +75,10 @@
 ---
 <p style="text-align:right">
 <img src="Henry_Penn.jpg" width=150 align="right" style="padding-left: 20px; padding-bottom: 5px;" />
-    <b>Henry Penn</b> <br> 
+    <b>Henry Harry Penn</b> <br> 
     Arctic Institute of North America, University of Calgary  <br>
     henry.penn@ucalgary.ca <br> 
+    Project components: Modular Systems (Objective 3) <br> 
 </p>
 <br />
 <div style="text-align: justify; text-align-last: right"> 
@@ -81,6 +90,7 @@
 <img src="Barbara_J.jpg" width=150 align="left" style="padding-right: 20px; padding-bottom: 5px;" />
     <b>Barbara Johnson</b> <br> 
     Graduate Student, University of Alaska Fairbanks <br>
+    Project components: Modular Systems (Objective 3) <br> 
 </p>
 <br />
 <br />
@@ -94,6 +104,7 @@
     <b>Christopher Pike</b> <br> 
     Alaska Center for Energy and Power <br>
     cpike6@alaska.edu <br> 
+    Project components: Community Data and Modular Systems (Objectives 2 and 3) <br> 
 </p>
 <br />
 <div style="text-align: justify; text-align-last: right"> 
@@ -106,6 +117,7 @@
     <b>Daniel Sambor</b> <br> 
     Stanford University <br>
     dsambor@stanford.edu <br>
+    Project components: Modular Systems (Objective 3) <br> 
 </p>
 <br />
 <div style="text-align: justify">
@@ -116,8 +128,10 @@
 <p style="text-align:right">
 <img src="Jenn_S.jpg" width=150 align="right" style="padding-left: 20px; padding-bottom: 5px;" />
     <b>Jennifer Schmidt</b> <br> 
+    Co-Principal Investigator (co-PI) <br>
     University of Alaska Anchorage <br>
     jischmidt0@gmail.com <br> 
+    Project components: FEW Framework, Community Data, and Synthesis (Objectives 1, 2, and 5) <br> 
 </p>
 <br />
 <div style="text-align: justify; text-align-last: right"> 
@@ -130,6 +144,7 @@
     <b>Bill Schnabel</b> <br> 
     Institute of Northern Engineering  <br>
     weschnabel@alaska.edu <br>
+    Project components: FEW Framework and Syntehsis (Objectives 1 and 5) <br> 
 </p>
 <br />
 <div style="text-align: justify">
@@ -141,6 +156,7 @@
 <img src="Justus.jpg" width=150 align="right" style="padding-left: 20px; padding-bottom: 5px;" />
     <b>Justus Karenzi</b> <br> 
     Graduate Student, University of Alaska Fairbanks <br>
+    Project components: Modular Systems and Energy Distribution Models (Objectives 3 and 4) <br> 
 </p>
 <br />
 <br />
@@ -154,6 +170,7 @@
 <img src="Michelle_Wilber.jpg" width=150 align="left" style="padding-right: 20px; padding-bottom: 5px;" />
     <b>Michelle Wilber</b> <br> 
     Research Engineer, Alaska Center for Energy & Power  <br>
+    Project components: Community Data and Modular Systems (Objective 2 and 3) <br> 
 </p>
 <br />
 <br />
@@ -167,18 +184,61 @@
     <b>Aaron Dotson</b> <br> 
     University of Alaska Anchorage, Interim Vice Provost for Research & Director, Applied Environmental Research Center <br>
     addotson@alaska.edu <br>
+    Project components: Modular Systems (Objective 3) <br> 
 </p>
 
 ---
 
 
-<p>
-    <b>Craig Gerlach</b> <br> 
-    University of Calgary  <br>
-    scgerlac@ucalgary.ca <br>
+<p style="text-align:right">
+<img src="Aaron_Dotson.jpg" width=150 align="right" style="padding-left: 20px; padding-bottom: 5px;" />
+    <b>Michele Chamberlin</b> <br> 
+    University of Alaska Fairbanks, Alaska Center for Energy and Power <br>
+    mjchamberlin2@alaska.edu <br>
+    Project components: Modular Systems (Objective 3) <br> 
+</p>
+
+
+---
+
+
+
+<p style="text-align:right">
+<img src="Aaron_Dotson.jpg" width=150 align="right" style="padding-left: 20px; padding-bottom: 5px;" />
+    <b>Murad Rashedin</b> <br> 
+    University of Alaska Anchorage, Interim Vice Provost for Research & Director, Applied Environmental Research Center <br>
+    mrashedin@alaska.edu <br>
+    Project components: Modular Systems (Objective 3) <br> 
 </p>
 
 ---
+
+
+<p style="text-align:right">
+<img src="Aaron_Dotson.jpg" width=150 align="right" style="padding-left: 20px; padding-bottom: 5px;" />
+    <b>Grace Bolt</b> <br> 
+    University of Alaska Fairbanks, Alaska Center for Energy and Power <br>
+    gbolt@alaska.edu <br>
+    Project components: Modular Systems (Objective 3) <br> 
+</p>
+
+---
+
+
+<p style="text-align:right">
+<img src="Aaron_Dotson.jpg" width=150 align="right" style="padding-left: 20px; padding-bottom: 5px;" />
+    <b>Chong Her</b> <br> 
+    University of Alaska Fairbanks, Alaska Center for Energy and Power <br>
+    cher6@alaska.edu <br>
+    Project components: Modular Systems (Objective 3) <br> 
+</p>
+
+---
+
+
+
+
+
 
 <form action="https://mjc55.github.io/MicroFEWs_Legacy/" align="center">
 <input type="submit" value="Back to Main Page" />
