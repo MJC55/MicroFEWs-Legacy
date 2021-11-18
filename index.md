@@ -20,9 +20,9 @@ The "MicroFEWS" project explores and models optimization of renewable energy uti
     
     <td width="200" style="border: none;"> <form action="https://mjc55.github.io/MicroFEWs_Legacy/Team/" align="center"><input type="submit" value="Meet the Team!" /></form> </td>
     <td width="200" style="border: none;"> <form action="https://mjc55.github.io/MicroFEWs_Legacy/Communities/?" align="center"><input type="submit" value="Communities" /></form></td>
-    <td width="200" style="border: none;"> <form action="https://mjc55.github.io/MicroFEWs_Legacy/Team/" align="center"><input type="submit" value="Other Button" /></form></td>
-    <td width="200" style="border: none;"> <form action="https://mjc55.github.io/MicroFEWs_Legacy/Videos/?" align="center"><input type="submit" value="Videos" /></form>  </td>
+    <td width="200" style="border: none;"> <form action="https://mjc55.github.io/MicroFEWs_Legacy/Videos/?" align="center"><input type="submit" value="Videos" /></form>  </td>   
     <td width="200" style="border: none;"> <form action="#Publications" align="center"><input type="submit" value="Publications" /></form></td>
+    <td width="200" style="border: none;"> <form action="#Data" align="center"><input type="submit" value="Publications" /></form></td>
     
   </tr>
 </table>
@@ -105,7 +105,7 @@ Dr. Richard Wies in an interview describing the Food-Energy-Water nexus.
 |[A Tale of Two Communities: Adopting and Paying for an In-Home Non-Potable Water Reuse System in Rural Alaska](Publications/Lucas et al_PDF_A.pdf){:target="_blank" rel="noopener"} |   [Cara Lucas](){:target="_blank" rel="noopener"} <br /> [Barbara Johnson](){:target="_blank" rel="noopener"} <br /> [Elizabeth Hodges Snyder](){:target="_blank" rel="noopener"} <br />  [Srijan Aggarwal](https://orcid.org/0000-0002-9141-9936){:target="_blank" rel="noopener"} <br />  [Aaron Dotson](){:target="_blank" rel="noopener"} |More Data|
 |[Stoking the flame: Subsistence and wood energy in rural Alaska, United States](Publications/Schmidt Biomass Paper_PDF_A.pdf){:target="_blank" rel="noopener"} |   [Jennifer Schmidt](){:target="_blank" rel="noopener"}  <br /> [Amanda Byrd](){:target="_blank" rel="noopener"} <br /> [Jennifer Curl](){:target="_blank" rel="noopener"} <br /> [Todd J. Brinkman](){:target="_blank" rel="noopener"} <br />  [Krista Heeringa](){:target="_blank" rel="noopener"}| Data or Info|
 
-
+<a name="Data"></a>
 # Data
 
 | Title  | Information | Data  |
