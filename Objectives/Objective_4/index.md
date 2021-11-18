@@ -5,11 +5,11 @@
 
 <p align="center" text-align="center"><table style="border-collapse: collapse; border: none;">
   <tr width="100%" style="border: none;">
-    <th width="400" style="border: none;"> <form action="https://mjc55.github.io/MicroFEWs_Legacy/Objectives/Objective_1" align="center"><input type="submit" value="Objective 1" /></form> </th>
-    <th width="400" style="border: none;"> <form action="https://mjc55.github.io/MicroFEWs_Legacy/Objectives/Objective_2" align="center"><input type="submit" value="Objective 2" /></form>  </th>
-    <th width="400" style="border: none;"> <form action="https://mjc55.github.io/MicroFEWs_Legacy/Objectives/Objective_3" align="center"><input type="submit" value="Objective 3" /></form> </th>
-    <th width="400" style="border: none;"> <form action="https://mjc55.github.io/MicroFEWs_Legacy/Objectives/Objective_5" align="center"><input type="submit" value="Objective 5" /></form> </th>
-    <th width="400" style="border: none;"> <form action="https://mjc55.github.io/MicroFEWs_Legacy/Objectives/Objective_6" align="center"><input type="submit" value="Objective 6" /></form> </th>
+    <td width="400" style="border: none;"> <form action="https://mjc55.github.io/MicroFEWs_Legacy/Objectives/Objective_1" align="center"><input type="submit" value="Objective 1" /></form> </td>
+    <td width="400" style="border: none;"> <form action="https://mjc55.github.io/MicroFEWs_Legacy/Objectives/Objective_2" align="center"><input type="submit" value="Objective 2" /></form>  </td>
+    <td width="400" style="border: none;"> <form action="https://mjc55.github.io/MicroFEWs_Legacy/Objectives/Objective_3" align="center"><input type="submit" value="Objective 3" /></form> </td>
+    <td width="400" style="border: none;"> <form action="https://mjc55.github.io/MicroFEWs_Legacy/Objectives/Objective_5" align="center"><input type="submit" value="Objective 5" /></form> </td>
+    <td width="400" style="border: none;"> <form action="https://mjc55.github.io/MicroFEWs_Legacy/Objectives/Objective_6" align="center"><input type="submit" value="Objective 6" /></form> </td>
   </tr>
 </table></p>
 
@@ -46,7 +46,7 @@ test these control strategies in a full-scale microgrid laboratory.
 
 ## Highlights
 
-* Poster [Use of limited data to inform renewable energy installation model scenarios for food, energy, and water systems in remote Alaska communities](agu19_few_cord_poster_kar_wies.pdf), presented at American Geophysical Union Fall Meeting, December 2019: 
-* [MicroFEWs – A Food-Energy-Water (FEW) Systems Approach to Renewable Energy Decisions in Islanded Microgrid Communities in Rural Alaska] (https://www.liebertpub.com/doi/10.1089/ees.2019.0055) by Whitney E., Aggarwal S., Huang D., Wies R.W., Huntington H.P., Schmidt J.I., Dotson A.D., Karenzi J., Environmental Engineering Science
+* Poster [Use of limited data to inform renewable energy installation model scenarios for food, energy, and water systems in remote Alaska communities](agu19_few_cord_poster_kar_wies.pdf), presented at American Geophysical Union Fall Meeting, December 2019 
+* [MicroFEWs – A Food-Energy-Water (FEW) Systems Approach to Renewable Energy Decisions in Islanded Microgrid Communities in Rural Alaska](https://www.liebertpub.com/doi/10.1089/ees.2019.0055) by Whitney E., Aggarwal S., Huang D., Wies R.W., Huntington H.P., Schmidt J.I., Dotson A.D., Karenzi J., Environmental Engineering Science
 * Presentation: [Planting the Seeds to Examine Food Security Challenges in the Alaska Food-Energy-Water Nexus](afpc_final_03072019.pdf), at Alaska Food Policy Council, March 2019
 
