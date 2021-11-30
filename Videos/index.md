@@ -3,7 +3,6 @@
 </form>
 
 
-# Video
 
 <br />
 Our team describing our research project "In a Nutshell".
