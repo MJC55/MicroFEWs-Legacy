@@ -12,6 +12,7 @@
 <br/>
 
 Renewable Energy Infographics Developed for Rural Alaska
+
 There is great interest in renewable energy by rural Alaska residents and in turn there is the need for information.  As part of the MicroFEWs project, researchers traveled to four communities in rural Alaska (Cordova, Igiugig, Kongiganak, and Tanana) where residents expressed interest in having infographics made to help them better understand different types of renewable energy and in turn make more informed decisions for themselves and their community.  Infographics are graphic visual representations of information that provide information quickly and clearly.  Using community feedback, we produced three infographics based on solar photovoltaic, hydro-electric, and wind energy.
 
 
@@ -20,7 +21,7 @@ There is great interest in renewable energy by rural Alaska residents and in tur
 
 ## 2021
 
-June <br/>
+<br/>
 Renewable Energy Infographics Developed for Rural Alaska 
 <br/>
 
