@@ -22,8 +22,24 @@ There is great interest in renewable energy by rural Alaska residents and in tur
 ## 2021
 
 <br/>
-Renewable Energy Infographics Developed for Rural Alaska 
+
 <br/>
+
+<details>
+<summary> <b>Project update May 2021: How we lost our naivete and regained our optimism about the food-energy-water nexus </b></summary>
+<br>
+  <i> 17 May 2021</i>
+  <br>
+  COVID-19 halted our field work, but our team has been hard at work analyzing and writing up results.  Here's a recent reflection from Dr. Henry Huntington following our publication in Nature Sustainability (access full article as preprint). Look for more published work and reflections in the coming months.
+</details>
+
+
+
+
+
+
+
+
 
 May <br/>
 Project update May 2021: How we lost our naivete and regained our optimism about the food-energy-water nexus
