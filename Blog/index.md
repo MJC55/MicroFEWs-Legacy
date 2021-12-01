@@ -28,12 +28,12 @@ May <br/>
 Project update May 2021: How we lost our naivete and regained our optimism about the food-energy-water nexus
 
 ### 2020
-*** April ***
+**April**
 
 Navigating the Ferry Cutbacks
 <br/>
 
-January
+**January**
 MicroFEWs team members at AGU
 
 ### 2019
