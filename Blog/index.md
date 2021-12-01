@@ -26,14 +26,26 @@ There is great interest in renewable energy by rural Alaska residents and in tur
 <br><br>
   <i>17 May 2021</i>
   <br><br>
+  COVID-19 halted our field work, but our team has been hard at work analyzing and writing up results.  Here's a [recent reflection](https://sustainabilitycommunity.springernature.com/posts/how-we-lost-our-naivete-and-regained-our-optimism-about-the-food-energy-water-nexus?channel_id=behind-the-paper) from Dr. Henry Huntington following [our publication in Nature Sustainability](https://doi.org/10.1038/s41893-021-00719-1). Look for more published work and reflections in the coming months.
+  <br><br>
+</details>
+
+
+
+
+## 2020
+
+<details>
+<summary> <b>Navigating the Ferry Cutbacks </b></summary>
+<br><br>
+  <i>17 May 2021</i>
+  <br><br>
   COVID-19 halted our field work, but our team has been hard at work analyzing and writing up results.  Here's a recent reflection from Dr. Henry Huntington following our publication in Nature Sustainability (access full article as preprint). Look for more published work and reflections in the coming months.
 </details>
 
 
 
 
-### 2020
-**April**
 
 Navigating the Ferry Cutbacks
 <br/>
