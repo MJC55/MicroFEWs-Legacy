@@ -102,19 +102,7 @@ https://docs.google.com/spreadsheets/d/1QMuGMkcNzjhGSYws7J7GrsaW2wBU0EDSLrWxKzVm
 |[A Tale of Two Communities: Adopting and Paying for an In-Home Non-Potable Water Reuse System in Rural Alaska](Publications/Lucas et al_PDF_A.pdf){:target="_blank" rel="noopener"}, ACS EST Water, 2021 |   [Cara Lucas](){:target="_blank" rel="noopener"} <br /> [Barbara Johnson](){:target="_blank" rel="noopener"} <br /> [Elizabeth Hodges Snyder](){:target="_blank" rel="noopener"} <br />  [Srijan Aggarwal](https://orcid.org/0000-0002-9141-9936){:target="_blank" rel="noopener"} <br />  [Aaron Dotson](){:target="_blank" rel="noopener"} |
 
 
-## Non peer-reviewed 
 
-Hello Hello
-
-# Abstracts and Presentations
-
-<a name="Data"></a>
-# Data
-
-| Title  | Information | Data  |
-| ---           | ---               | ---               |
-| <img width=100/> |  <img width=2000/> | <img width=1000/> |
-| Hello | Hello adsffffffff | Hello Hello Helooadfads adfvsdasvavagavgasfafdhkjahfdhahvfhakjhfahfdhahfakhfdkhsakjfkkiiiiii |
 
 
 <br />
